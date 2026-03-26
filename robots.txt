@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://lienstripping.org/sitemap.xml

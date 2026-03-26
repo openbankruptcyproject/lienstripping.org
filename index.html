@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-053Z64N82F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-053Z64N82F');
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lien Stripping in Bankruptcy -- Remove Junior Liens | lienstripping.org</title>
+<meta name="description" content="Free guide to lien stripping in bankruptcy under Section 506(a). Learn how Chapter 13 can remove second mortgages, junior liens, and underwater secured claims from your property.">
+<meta name="keywords" content="lien stripping, Section 506(a), second mortgage, junior lien, underwater mortgage, Chapter 13, cramdown, HELOC, strip off lien, bankruptcy lien removal">
+<link rel="canonical" href="https://lienstripping.org/">
+<link rel="alternate" hreflang="en" href="https://lienstripping.org/">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Lien Stripping in Bankruptcy -- Remove Junior Liens">
+<meta property="og:description" content="Free guide to lien stripping in bankruptcy under Section 506(a). Learn how Chapter 13 can remove second mortgages, junior liens, and underwater secured claims from your property.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://lienstripping.org/">
+<meta property="og:site_name" content="lienstripping.org">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Lien Stripping in Bankruptcy -- Remove Junior Liens">
+<meta name="twitter:description" content="Free guide to lien stripping in bankruptcy under Section 506(a). Learn how Chapter 13 can remove second mortgages, junior liens, and underwater secured claims from your property.">
+
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#0d1117">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Bankruptcy Transparency Network",
+  "url": "https://1328f.org",
+  "description": "Free, open-source bankruptcy information. Real information, no strings.",
+  "sameAs": [
+    "https://1328f.com",
+    "https://1328f.org",
+    "https://automaticstay.org",
+    "https://meanstest.org",
+    "https://341meeting.org",
+    "https://523a.org",
+    "https://109g.org",
+    "https://727a8.com",
+    "https://relieffromstay.org",
+    "https://dischargeinjunction.com",
+    "https://prosedebtors.org",
+    "https://lienstripping.org"
+  ]
+}
+</script>
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #9eaab6;
+    --accent: #58a6ff;
+    --green: #3fb950;
+    --red: #f85149;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.7;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .skip-link {
+    position: absolute; left: -9999px; top: auto;
+    width: 1px; height: 1px; overflow: hidden; z-index: 9999;
+    padding: 1rem; background: #238636; color: #fff;
+    font-weight: 600; text-decoration: none;
+  }
+  .skip-link:focus {
+    position: fixed; top: 10px; left: 10px;
+    width: auto; height: auto; overflow: visible;
+  }
+  nav {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 0.75rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  nav .site-name {
+    color: #f0f6fc;
+    font-weight: 700;
+    font-size: 1.1rem;
+    text-decoration: none;
+  }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+  .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .hamburger {
+    display: none; background: none; border: none; color: var(--text);
+    font-size: 1.5rem; cursor: pointer; padding: 0.25rem;
+  }
+  header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+  header h1 {
+    color: #f0f6fc;
+    font-size: 2rem;
+    margin-bottom: 0.75rem;
+  }
+  header h1 .accent { color: var(--accent); }
+  header .subtitle {
+    color: var(--text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+  .content-section {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+  }
+  .content-section h2 {
+    color: #f0f6fc;
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .content-section p {
+    color: var(--text);
+    margin-bottom: 0.75rem;
+    font-size: 0.95rem;
+  }
+  .highlight-box {
+    background: #21262d;
+    border-left: 3px solid var(--accent);
+    padding: 1rem 1.25rem;
+    border-radius: 0 6px 6px 0;
+    margin: 1rem 0;
+  }
+  .highlight-box.success { border-left-color: var(--green); }
+  .highlight-box p { margin-bottom: 0.5rem; }
+  .highlight-box p:last-child { margin-bottom: 0; }
+  .cta-box {
+    background: var(--surface);
+    border: 1px solid var(--accent);
+    border-radius: 6px;
+    padding: 1.5rem 2rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  .cta-box p { font-size: 0.95rem; margin-bottom: 0.75rem; }
+  .cta-box a.btn {
+    display: inline-block;
+    background: #238636;
+    color: #fff;
+    padding: 0.6rem 1.5rem;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    text-decoration: none;
+    margin: 0.25rem;
+  }
+  .cta-box a.btn:hover { background: #2ea043; text-decoration: none; }
+  .network-footer {
+    background: var(--surface);
+    border-top: 1px solid var(--border);
+    padding: 2rem;
+    text-align: center;
+    margin-top: 3rem;
+  }
+  .network-footer p {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    margin-bottom: 0.5rem;
+  }
+  .network-footer .links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 0.75rem;
+  }
+  .network-footer .links a { color: var(--text-muted); font-size: 0.85rem; }
+  .network-footer .links a:hover { color: var(--accent); }
+  .network-footer .disclaimer {
+    margin-top: 1rem;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+  }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.5rem; }
+    main { padding: 1.5rem 1rem; }
+    .content-section { padding: 1.25rem; }
+    nav { padding: 0.75rem 1rem; }
+    .hamburger { display: block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
+    .nav-links.open { display: flex; }
+  }
+</style>
+
+</head>
+<body>
+
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+<nav aria-label="Main navigation">
+  <a href="/" class="site-name">lienstripping.org</a>
+  <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
+  <div class="nav-links">
+    <a href="https://1328f.com">1328f.com</a>
+    <a href="https://1328f.org">1328f.org</a>
+    <a href="https://automaticstay.org">automaticstay.org</a>
+    <a href="https://meanstest.org">meanstest.org</a>
+    <a href="https://341meeting.org">341meeting.org</a>
+    <a href="https://523a.org">523a.org</a>
+    <a href="https://109g.org">109g.org</a>
+    <a href="https://727a8.com">727a8.com</a>
+    <a href="https://relieffromstay.org">relieffromstay.org</a>
+    <a href="https://lienstripping.org" class="active">lienstripping.org</a>
+    <a href="https://dischargeinjunction.com">dischargeinjunction.com</a>
+    <a href="https://prosedebtors.org">prosedebtors.org</a>
+  </div>
+</nav>
+
+<header>
+  <h1><span class="accent">Lien Stripping</span> in Bankruptcy</h1>
+  <p class="subtitle">A plain-language guide to removing junior liens under 11 U.S.C. Section 506(a). When your home is underwater, Chapter 13 may let you strip off second mortgages, HELOCs, and other junior liens entirely.</p>
+</header>
+
+<main id="main-content">
+
+  <div class="content-section">
+    <h2>What Is Lien Stripping?</h2>
+    <p>Lien stripping is the process of removing a junior lien -- like a second mortgage or HELOC -- from your property through bankruptcy. It works because of Section 506(a) of the Bankruptcy Code, which says a claim is "secured" only to the extent of the property's value. Any amount beyond the property's value is treated as unsecured debt.</p>
+    <p>Here is how the math works: if your home is worth $200,000 and your first mortgage balance is $210,000, there is zero equity left for the second mortgage. The second mortgage is wholly unsecured -- it has no collateral backing it. The bankruptcy court can reclassify (or "strip off") that lien entirely, treating it as general unsecured debt in your Chapter 13 plan.</p>
+    <p>When you complete your Chapter 13 plan, the stripped lien is permanently removed from the property. The second mortgage holder gets only what unsecured creditors receive -- often pennies on the dollar, sometimes nothing. This is one of the most powerful tools available to homeowners in financial distress.</p>
+  </div>
+
+  <div class="highlight-box success">
+    <p><strong>Part of the Bankruptcy Transparency Network</strong> -- free, open-source bankruptcy information. No ads, no lead generation, no strings attached.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>How It Works</h2>
+    <p><strong>Step 1: File Chapter 13.</strong> Lien stripping is available only in Chapter 13 (and sometimes Chapter 11). You must have a pending bankruptcy case to pursue it.</p>
+    <p><strong>Step 2: File a motion or adversary proceeding.</strong> Depending on local rules, you file either a motion to value the secured claim under Section 506(a) or a full adversary proceeding. Some courts require one, some accept either. Check your district's local rules.</p>
+    <p><strong>Step 3: Get the property appraised.</strong> You need evidence that your property's fair market value is less than the balance owed on the senior lien(s). An appraisal, broker price opinion, or comparable sales analysis supports your case.</p>
+    <p><strong>Step 4: Show the junior lien is wholly unsecured.</strong> The key test: does the senior mortgage balance equal or exceed the property value? If yes, the junior lien has no security interest. The court values the junior lienholder's secured claim at $0.</p>
+    <p><strong>Step 5: Complete your plan.</strong> The lien is not actually removed until you complete all payments under your Chapter 13 plan and receive a discharge. If your case is dismissed before completion, the lien survives. This is critical -- you must finish the plan.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Chapter 13 Only</h2>
+    <p>The Supreme Court's decision in <em>Dewsnup v. Timm</em>, 502 U.S. 410 (1992), prevents lien stripping in Chapter 7 cases. The Court held that Section 506(d) does not allow a Chapter 7 debtor to "strip down" an undersecured lien to the property's current value. The lien rides through the bankruptcy and remains attached to the property.</p>
+    <p>Chapter 13 is different. Through the plan confirmation process, debtors can modify the rights of holders of secured claims -- including stripping off wholly unsecured junior liens. This ability to strip liens is one of the most significant advantages Chapter 13 offers over Chapter 7 for homeowners with underwater mortgages.</p>
+    <p>Note the distinction: the junior lien must be <strong>wholly unsecured</strong> -- meaning the senior debt fully exceeds the property value. If even $1 of equity supports the junior lien, it cannot be stripped. It is an all-or-nothing test.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>What Can Be Stripped</h2>
+    <p><strong>Second mortgages</strong> -- the most common target. If the first mortgage exceeds the home's value, the second mortgage can be stripped entirely.</p>
+    <p><strong>Home equity lines of credit (HELOCs)</strong> -- treated the same as second mortgages for lien stripping purposes. If wholly unsecured, they can be stripped.</p>
+    <p><strong>Judgment liens</strong> -- under Section 522(f), judgment liens that impair an exemption can be avoided (removed) even in Chapter 7. This is technically "lien avoidance" rather than "lien stripping," but the practical effect is similar -- the lien is removed from the property.</p>
+    <p><strong>HOA liens</strong> -- in some jurisdictions, homeowner association liens that are junior to a first mortgage may be strippable if wholly unsecured. This varies by circuit and is less settled law.</p>
+    <p><strong>What cannot be stripped:</strong> First mortgages are protected by Section 1322(b)(2), the "anti-modification clause." Chapter 13 debtors generally cannot modify the rights of a holder of a claim secured only by the debtor's principal residence -- but this protection applies only to the senior lien. Junior liens that are wholly unsecured lose this protection because they are no longer truly "secured."</p>
+  </div>
+
+  <div class="content-section">
+    <h2>The Cramdown Alternative</h2>
+    <p>Lien stripping applies to liens on real property (homes). For personal property like vehicles, Section 506(a) works differently -- through what is commonly called "cramdown."</p>
+    <p><strong>Vehicle cramdown:</strong> If you owe more on a car loan than the vehicle is worth, Chapter 13 lets you reduce the secured claim to the car's current market value. You pay the market value through the plan (with interest), and the remaining balance is treated as unsecured debt. For example, if you owe $15,000 on a car worth $9,000, you pay $9,000 as a secured claim and the remaining $6,000 joins your unsecured pool.</p>
+    <p><strong>The 910-day rule:</strong> There is an important exception. The "hanging paragraph" after Section 1325(a)(9) -- sometimes called the 910-day rule -- prevents cramdown on vehicles purchased within 910 days (about 2.5 years) before filing. For these recent purchases, you must pay the full loan balance, not just the car's value. This rule was added by the 2005 BAPCPA amendments to protect auto lenders.</p>
+    <p><strong>Other secured property:</strong> Cramdown can also apply to furniture, electronics, business equipment, and other personal property securing a loan -- as long as the debt was not incurred within one year of filing (the one-year rule in the same hanging paragraph).</p>
+  </div>
+
+  <div class="cta-box">
+    <p>Explore your bankruptcy options with our free tools:</p>
+    <a href="https://chapter13plan.org" class="btn">Chapter 13 Plan Guide</a>
+    <a href="https://1328f.com" class="btn">Free Discharge Screener</a>
+  </div>
+
+</main>
+
+<footer class="network-footer" role="contentinfo">
+  <p><strong>Bankruptcy Transparency Network</strong></p>
+  <p>Real information, no strings.</p>
+  <div class="links">
+    <a href="https://1328f.com">1328f.com</a>
+    <a href="https://1328f.org">1328f.org</a>
+    <a href="https://automaticstay.org">automaticstay.org</a>
+    <a href="https://meanstest.org">meanstest.org</a>
+    <a href="https://341meeting.org">341meeting.org</a>
+    <a href="https://523a.org">523a.org</a>
+    <a href="https://109g.org">109g.org</a>
+    <a href="https://727a8.com">727a8.com</a>
+    <a href="https://relieffromstay.org">relieffromstay.org</a>
+    <a href="https://lienstripping.org">lienstripping.org</a>
+    <a href="https://dischargeinjunction.com">dischargeinjunction.com</a>
+    <a href="https://prosedebtors.org">prosedebtors.org</a>
+    <a href="https://ko-fi.com/ilikemath9999">Ko-fi</a>
+    <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
+  </div>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.</p>
+</footer>
+
+</body>
+</html>
