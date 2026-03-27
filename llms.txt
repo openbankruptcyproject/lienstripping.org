@@ -2,7 +2,7 @@
 
 > Guide to lien stripping and lien avoidance in bankruptcy.
 
-lienstripping.org is a free, open-source educational resource about removing liens through bankruptcy. Part of the Bankruptcy Transparency Network.
+lienstripping.org is a free, open-source educational resource about removing liens through bankruptcy. Part of the Open Bankruptcy Project.
 
 ## Pages
 
