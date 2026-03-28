@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-053Z64N82F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-053Z64N82F');
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How Lien Stripping Works in Chapter 13 Bankruptcy -- Step by Step | lienstripping.org</title>
+<meta name="description" content="Step-by-step guide to lien stripping in Chapter 13 bankruptcy. Learn how Section 506(a) determines secured status, the wholly unsecured requirement, valuation disputes, and when the lien is actually removed.">
+<meta name="keywords" content="lien stripping chapter 13 step by step, how does lien stripping work, strip lien bankruptcy, 506(a), wholly unsecured, lien stripping process">
+<link rel="canonical" href="https://lienstripping.org/how-it-works.html">
+
+<!-- Open Graph -->
+<meta property="og:title" content="How Lien Stripping Works in Chapter 13 Bankruptcy -- Step by Step">
+<meta property="og:description" content="Step-by-step guide to lien stripping in Chapter 13. How Section 506(a) determines secured status and the process for removing a junior lien.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://lienstripping.org/how-it-works.html">
+<meta property="og:site_name" content="lienstripping.org">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="How Lien Stripping Works in Chapter 13 Bankruptcy -- Step by Step">
+<meta name="twitter:description" content="Step-by-step guide to lien stripping in Chapter 13. How Section 506(a) determines secured status and the process for removing a junior lien.">
+
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#0d1117">
+
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #9eaab6;
+    --accent: #58a6ff;
+    --green: #3fb950;
+    --red: #f85149;
+    --yellow: #e3a835;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.7;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; z-index: 9999; padding: 1rem; background: #238636; color: #fff; font-weight: 600; text-decoration: none; }
+  .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; }
+  nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+  .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .hamburger { display: none; background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer; padding: 0.25rem; }
+  header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; }
+  header h1 .accent { color: var(--accent); }
+  header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
+  .breadcrumb { max-width: 820px; margin: 1rem auto 0; padding: 0 1.5rem; font-size: 0.85rem; color: var(--text-muted); }
+  .breadcrumb a { color: var(--text-muted); }
+  .breadcrumb a:hover { color: var(--accent); }
+  main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+  .content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
+  .content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .content-section h3 { color: #f0f6fc; font-size: 1.1rem; margin: 1.5rem 0 0.75rem; }
+  .content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
+  .content-section p:last-child { margin-bottom: 0; }
+  .content-section ul, .content-section ol { margin: 0.75rem 0 0.75rem 1.5rem; color: var(--text); font-size: 0.95rem; }
+  .content-section li { margin-bottom: 0.4rem; }
+  .highlight-box { background: #21262d; border-left: 3px solid var(--accent); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .highlight-box.warning { border-left-color: var(--red); }
+  .highlight-box.success { border-left-color: var(--green); }
+  .highlight-box p { margin-bottom: 0.5rem; }
+  .highlight-box p:last-child { margin-bottom: 0; }
+  .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .green-box p { margin-bottom: 0.5rem; }
+  .green-box p:last-child { margin-bottom: 0; }
+  .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; text-align: center; }
+  .cta-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 0.75rem; }
+  .cta-box p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem; }
+  .cta-box .cta-links { display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; }
+  .cta-box .cta-links a { display: inline-block; padding: 0.6rem 1.5rem; border-radius: 6px; font-weight: 600; font-size: 0.95rem; transition: background 0.2s; }
+  .cta-links .primary-btn { background: #238636; color: #fff; }
+  .cta-links .primary-btn:hover { background: #2ea043; text-decoration: none; }
+  .cta-links .secondary-btn { background: var(--border); color: var(--text); }
+  .cta-links .secondary-btn:hover { background: #484f58; text-decoration: none; }
+  .network-footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
+  .network-footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+  .network-footer .links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 0.75rem; }
+  .network-footer .links a { color: var(--text-muted); font-size: 0.85rem; }
+  .network-footer .links a:hover { color: var(--accent); }
+  .network-footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.5rem; }
+    main { padding: 1.5rem 1rem; }
+    .content-section { padding: 1.25rem; }
+    nav { padding: 0.75rem 1rem; }
+    .hamburger { display: block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
+    .nav-links.open { display: flex; }
+    .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
+  }
+</style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lienstripping.org/" },
+    { "@type": "ListItem", "position": 2, "name": "How Lien Stripping Works", "item": "https://lienstripping.org/how-it-works.html" }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does lien stripping work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lien stripping removes a wholly unsecured junior lien from your property through Chapter 13 bankruptcy. Under Section 506(a), if the balance on your first mortgage exceeds the property's market value, any junior lien (second mortgage, HELOC) is considered wholly unsecured. You file a motion to value the lien, treat it as unsecured in your plan, complete the plan, and upon discharge the lien is voided."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is the lien actually removed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The lien is not actually stripped until you receive your Chapter 13 discharge -- which happens after you complete all plan payments over 3 to 5 years. If the case is dismissed before discharge, the lien survives in full force. The court order during the case determines the lien is wholly unsecured, but the actual voiding of the lien occurs only upon discharge."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if the bank disagrees with the property value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The lien holder can object to your proposed valuation. If they do, the court will hold a hearing where both sides present evidence. You might present an appraisal, broker price opinion, or comparable sales. The bank may present its own appraisal. The court makes the final determination. In some cases, the court may order an independent appraisal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I strip a lien in Chapter 7?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. The Supreme Court held in Dewsnup v. Timm (1992) that Section 506(d) cannot be used to strip liens in Chapter 7. This was confirmed for wholly unsecured liens in Bank of America v. Caulkett (2015). Lien stripping is only available in Chapter 13 (and in some circuits, Chapter 11 Sub V)."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org", "description": "Free, open-source bankruptcy court transparency tools and research.", "foundingDate": "2026-03-27", "areaServed": "US", "nonprofitStatus": "Nonprofit501c3", "sameAs": ["https://1328f.com", "https://1328f.org"]}
+</script>
+</head>
+<body>
+
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+<nav role="navigation" aria-label="Site navigation">
+  <a href="/" class="site-name">lienstripping.org</a>
+  <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
+  <div class="nav-links">
+    <a href="/">Home</a>
+    <a href="/lien-stripping.html" class="active">How It Works</a>
+    <a href="/lien-avoidance.html">Lien Avoidance</a>
+    <a href="/cramdown.html">Cramdown</a>
+    <a href="/second-mortgage.html">2nd Mortgage</a>
+    <a href="/eligibility.html">Eligibility</a>
+    <a href="/case-law.html">Case Law</a>
+  </div>
+</nav>
+
+<header>
+  <h1>How <span class="accent">Lien Stripping</span> Works in Chapter 13 -- Step by Step</h1>
+  <p class="subtitle">The complete process for removing a wholly unsecured junior lien from your property through Chapter 13 bankruptcy.</p>
+</header>
+
+<div class="breadcrumb" aria-label="Breadcrumb">
+  <a href="/">Home</a> &rsaquo; How Lien Stripping Works
+</div>
+
+<main id="main-content">
+
+  <div class="content-section">
+    <h2>What Lien Stripping Does</h2>
+    <p>Lien stripping removes a wholly unsecured junior lien from your property through Chapter 13 bankruptcy. It is one of the most powerful tools available to homeowners who owe more on their first mortgage than their home is currently worth.</p>
+    <p>The legal foundation is <a href="https://www.law.cornell.edu/uscode/text/11/506">11 U.S.C. Section 506(a)</a>, which determines secured status based on the value of the collateral. If the balance on the senior mortgage exceeds the property's current market value, there is no equity left for the junior lien to attach to. That junior lien -- whether a second mortgage, home equity line of credit (HELOC), or third mortgage -- is classified as wholly unsecured.</p>
+    <p>Once a junior lien is determined to be wholly unsecured, it can be "stripped off" the property. The debt is reclassified as unsecured in the Chapter 13 plan, and upon discharge, the lien is voided entirely. The homeowner keeps the home free of that junior lien.</p>
+
+    <div class="highlight-box success">
+      <p><strong>The core principle:</strong> A secured claim is only secured to the extent of the value of the collateral. If the collateral is already fully encumbered by the first mortgage, the second mortgage has zero secured value -- and can be eliminated through lien stripping.</p>
+    </div>
+  </div>
+
+  <div class="content-section">
+    <h2>The Step-by-Step Process</h2>
+    <p>Lien stripping follows a specific sequence. Understanding each step helps you know what to expect and how to prepare.</p>
+
+    <h3>Step 1: Determine Your Property's Current Market Value</h3>
+    <p>The first and most critical step is establishing what your home is worth right now. This is the foundation of the entire lien stripping analysis. If the property value is less than or equal to the first mortgage balance, lien stripping may be available.</p>
+    <p>Common methods for establishing property value include:</p>
+    <ul>
+      <li><strong>Formal appraisal</strong> -- The gold standard. A licensed appraiser inspects the property and prepares a written report. This is the strongest evidence in court but also the most expensive (typically $300 to $500).</li>
+      <li><strong>Broker price opinion (BPO)</strong> -- A real estate agent provides an estimate based on comparable sales. Less expensive than a full appraisal and accepted by many courts.</li>
+      <li><strong>Comparable sales analysis</strong> -- Your attorney compiles recent sales of similar properties in your area. This can be effective but may be challenged by the lien holder.</li>
+      <li><strong>Online estimates</strong> -- Zillow Zestimates and similar tools. These are generally considered weaker evidence, but some courts accept them as a starting point.</li>
+    </ul>
+    <p>The relevant date for valuation is typically the date you filed your bankruptcy petition. Some courts use the date of the lien stripping hearing instead. Check your local court's practice.</p>
+
+    <h3>Step 2: Determine Your First Mortgage Balance</h3>
+    <p>Pull your most recent mortgage statement to determine the exact payoff balance on your first mortgage. This includes the principal balance, accrued interest, and any fees. The payoff amount -- not the monthly statement balance -- is what matters.</p>
+    <p>If you have a mortgage that has been modified, the modified balance is what counts. If you are in arrears, the total amount owed (including arrears) is the relevant figure.</p>
+
+    <h3>Step 3: Compare -- Is the Junior Lien Wholly Unsecured?</h3>
+    <p>This is the critical comparison. If the first mortgage balance is greater than or equal to the property's current market value, the junior lien is wholly unsecured and can be stripped.</p>
+
+    <div class="highlight-box success">
+      <p><strong>Example:</strong> Your home is worth $185,000. Your first mortgage balance is $192,000. Because $192,000 exceeds $185,000, your second mortgage (say, $45,000) is wholly unsecured. It can be stripped.</p>
+    </div>
+
+    <div class="highlight-box warning">
+      <p><strong>Counter-example:</strong> Your home is worth $200,000. Your first mortgage balance is $198,000. There is $2,000 of equity reaching the second mortgage. Because the second mortgage is not wholly unsecured -- it has $2,000 of secured value -- lien stripping is NOT available. Even $1 of equity reaching the junior lien defeats lien stripping.</p>
+    </div>
+
+    <h3>Step 4: File the Motion to Value or Strip the Lien</h3>
+    <p>Assuming the junior lien is wholly unsecured, the next step is filing a motion with the bankruptcy court. Different courts call this different things:</p>
+    <ul>
+      <li><strong>Motion to determine secured status</strong> -- The most common name</li>
+      <li><strong>Motion to value lien</strong> -- Used in many jurisdictions</li>
+      <li><strong>Motion to strip lien</strong> -- A more informal but widely understood term</li>
+      <li><strong>Adversary proceeding</strong> -- Some courts require a full adversary proceeding (a separate lawsuit within the bankruptcy) rather than a simple motion</li>
+    </ul>
+    <p>The motion must include evidence of the property's value and the first mortgage balance, and it must demonstrate that the junior lien is wholly unsecured. Your local court may have a specific form or format requirement.</p>
+
+    <h3>Step 5: Treat the Junior Lien as Unsecured in the Plan</h3>
+    <p>Your Chapter 13 plan should propose to treat the junior lien holder's claim as a general unsecured claim. This means the lien holder receives whatever percentage the plan pays to unsecured creditors. In many cases, this is pennies on the dollar. In some plans, unsecured creditors receive nothing (a "zero percent plan").</p>
+    <p>The plan must still meet all other Chapter 13 requirements, including the best-interests-of-creditors test and the disposable income test. The lien strip itself does not change these requirements.</p>
+
+    <h3>Step 6: Complete the Plan</h3>
+    <p>You must complete all payments under your Chapter 13 plan. This takes 3 to 5 years depending on your income level and the plan terms. During this time, the junior lien technically still exists -- it has been determined to be unsecured, but the actual lien removal happens only upon discharge.</p>
+    <p>This is a critical point that many people miss: <strong>the lien is not stripped until you get your discharge</strong>. If your case is dismissed before you finish the plan, the lien survives in full force. The 3-to-5-year commitment is the price of lien stripping.</p>
+
+    <h3>Step 7: Discharge -- The Lien Is Voided</h3>
+    <p>Upon successful completion of the plan and entry of the Chapter 13 discharge, the junior lien is voided by operation of law. The combination of the court's order determining the lien to be wholly unsecured and the discharge order together eliminate the lien.</p>
+    <p>After discharge, you should take steps to clear the lien from your property records. This may involve recording a certified copy of the court's order with your county recorder's office. Some courts enter a separate order specifically voiding the lien, which simplifies the recording process.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>The "Wholly Unsecured" Requirement</h2>
+    <p>This is the single most important legal concept in lien stripping: the junior lien must be <strong>wholly unsecured</strong>. Not partially unsecured. Not mostly unsecured. Wholly unsecured.</p>
+    <p>If the property is worth even $1 more than the first mortgage balance, the junior lien has $1 of secured value. In most circuits, that $1 of equity reaching the junior lien makes lien stripping unavailable. The junior lien holder would retain its lien for the full amount of its claim (subject to the property's value), and the debtor cannot strip it.</p>
+    <p>This all-or-nothing rule comes from the interplay between <a href="https://www.law.cornell.edu/uscode/text/11/506">Section 506(a)</a> (which determines secured status) and <a href="https://www.law.cornell.edu/uscode/text/11/1322">Section 1322(b)(2)</a> (the anti-modification clause that protects home mortgage holders). The Supreme Court addressed this in <em>Nobelman v. American Savings Bank</em>, 508 U.S. 324 (1993), holding that the anti-modification clause protects liens that are secured by the debtor's principal residence -- but only if the lien actually has secured value. A wholly unsecured junior lien is not "secured by" the residence, so the anti-modification clause does not protect it.</p>
+    <p>The practical implication: accurate property valuation is everything. A few thousand dollars in either direction can make the difference between stripping a $50,000 second mortgage and being stuck with it.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Timing: When Is the Lien Actually Removed?</h2>
+    <p>One of the most common misunderstandings about lien stripping is when it actually takes effect. The timeline works like this:</p>
+    <ol>
+      <li><strong>Filing the motion:</strong> You file the motion to value/strip the lien. This starts the process but does not remove the lien.</li>
+      <li><strong>Court order:</strong> The court enters an order determining the junior lien is wholly unsecured. This reclassifies the claim but does not yet void the lien.</li>
+      <li><strong>During the plan:</strong> The lien technically remains on the property records throughout the 3-to-5-year plan period. However, the lien holder is treated as an unsecured creditor.</li>
+      <li><strong>Discharge:</strong> Upon completion of the plan and entry of the discharge order, the lien is voided. This is the point at which lien stripping becomes permanent.</li>
+    </ol>
+
+    <div class="highlight-box warning">
+      <p><strong>If the case is dismissed:</strong> The lien survives. Period. If you cannot complete your Chapter 13 plan -- whether due to job loss, illness, or any other reason -- and the case is dismissed, the junior lien springs back to full force as though the bankruptcy never happened. This is why completing the plan is essential.</p>
+    </div>
+
+    <p>If the case is converted from Chapter 13 to Chapter 7, the lien strip is also lost. Chapter 7 does not allow lien stripping (see <a href="/case-law.html">case law</a>), so converting the case means the junior lien survives.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Valuation Disputes</h2>
+    <p>The junior lien holder has every incentive to argue that the property is worth more than you claim. If they can show even $1 of equity reaching their lien, the strip fails. Expect pushback, especially on higher-value properties or when the margins are close.</p>
+    <p>Common dispute scenarios include:</p>
+    <ul>
+      <li><strong>Competing appraisals:</strong> You present an appraisal showing the home is worth $190,000. The bank presents one showing $215,000. The court must weigh the evidence and may order an independent appraisal at your expense.</li>
+      <li><strong>Condition disputes:</strong> The bank argues you understated the property's condition. Photographs and a detailed appraisal report help counter this.</li>
+      <li><strong>Comparable selection:</strong> The two sides may pick different comparable sales. The court evaluates which comparables are more appropriate based on proximity, condition, and timing.</li>
+      <li><strong>Market movement:</strong> If property values are rising, the bank may argue that recent sales show the market has moved above your appraisal date. Courts generally stick to the petition date valuation, but some allow hearing-date valuation.</li>
+    </ul>
+    <p>The burden of proof is on the debtor to show the property value is less than the first mortgage balance. Come prepared with strong evidence. A formal appraisal from a licensed appraiser is worth the investment when tens of thousands of dollars in debt elimination are at stake.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Frequently Asked Questions</h2>
+
+    <h3>How does lien stripping work?</h3>
+    <p>Lien stripping removes a wholly unsecured junior lien from your property through Chapter 13 bankruptcy. Under Section 506(a), if the balance on your first mortgage exceeds the property's market value, any junior lien is considered wholly unsecured. You file a motion, treat the debt as unsecured in your plan, complete the plan, and upon discharge the lien is voided permanently.</p>
+
+    <h3>When is the lien actually removed?</h3>
+    <p>The lien is not removed until you receive your Chapter 13 discharge -- which occurs after you complete all plan payments over 3 to 5 years. During the plan, the court has ruled the lien is wholly unsecured, but the lien technically remains on the property records until discharge. If the case is dismissed before discharge, the lien survives.</p>
+
+    <h3>What if the bank disagrees with the property value?</h3>
+    <p>The bank (junior lien holder) can object to your proposed valuation. The court will hold a hearing where both sides present evidence -- appraisals, comparable sales, condition reports. The court makes the final determination. If the values are close, the court may order an independent appraisal.</p>
+
+    <h3>Can I strip a lien in Chapter 7?</h3>
+    <p>No. The Supreme Court held in <em>Dewsnup v. Timm</em>, 502 U.S. 410 (1992), that Section 506(d) cannot be used to strip liens in Chapter 7. This was confirmed for wholly unsecured liens in <em>Bank of America v. Caulkett</em>, 575 U.S. 790 (2015). Lien stripping requires Chapter 13 (or in some circuits, Chapter 11 Sub V). See our <a href="/eligibility.html">eligibility page</a> and <a href="/case-law.html">case law page</a> for details.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Related Resources</h2>
+    <ul>
+      <li><a href="/lien-avoidance.html">Lien Avoidance Under Section 522(f)</a> -- A different tool for removing judicial liens from exempt property</li>
+      <li><a href="/second-mortgage.html">Strip Your Second Mortgage</a> -- The most common application of lien stripping</li>
+      <li><a href="/eligibility.html">Eligibility Requirements</a> -- Who qualifies for lien stripping</li>
+      <li><a href="https://chapter13plan.org/cramdown.html">Chapter 13 Cramdown</a> -- Reducing secured debts to collateral value</li>
+      <li><a href="https://relieffromstay.org">Relief from Stay</a> -- What happens if a creditor tries to foreclose during your case</li>
+    </ul>
+  </div>
+
+  <div class="cta-box">
+    <h3>Check Your Bankruptcy Discharge Eligibility</h3>
+    <p>Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy discharge.</p>
+    <div class="cta-links">
+      <a href="https://1328f.com" class="primary-btn">Discharge Screener</a>
+      <a href="https://1328f.org" class="secondary-btn">Research Platform</a>
+    </div>
+  </div>
+
+</main>
+
+<footer class="network-footer" role="contentinfo">
+  <p><strong>Part of the Open Bankruptcy Project</strong></p>
+  <p>Real information, no strings.</p>
+  <div class="links">
+    <a href="https://1328f.com">1328f.com</a>
+    <a href="https://1328f.org">1328f.org</a>
+    <a href="https://automaticstay.org">automaticstay.org</a>
+    <a href="https://meanstest.org">meanstest.org</a>
+    <a href="https://341meeting.org">341meeting.org</a>
+    <a href="https://relieffromstay.org">relieffromstay.org</a>
+    <a href="https://dischargeinjunction.org">dischargeinjunction.org</a>
+    <a href="https://chapter13plan.org">chapter13plan.org</a>
+    <a href="https://lienstripping.org">lienstripping.org</a>
+    <a href="https://ko-fi.com/ilikemath9999">Ko-fi</a>
+    <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
+  </div>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit (determination pending).<br>Last updated: March 2026.</p>
+</footer>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
+  <p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">0</span> of 37.9 million</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
+  <div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div id="recap-bar" style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
+  <p style="margin-bottom:0.25rem"><span id="recap-donated" style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
+  <p style="color:#9eaab6;font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing.</p>
+  <a href="https://1328f.org/support/" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Fund this research</a>
+</div>
+<script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
+
+<script src="/btn-engage.js"></script>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:700px;margin:2rem auto">
+<p style="color:#9eaab6;font-size:0.8rem;text-transform:uppercase;letter-spacing:0.05em;margin-bottom:0.25rem">Federal Rules Committee</p>
+<p style="color:#e6edf3;font-size:0.95rem;margin-bottom:0.25rem">This research supports <a href="https://www.uscourts.gov/forms-rules/records-rules-committees/rules-suggestions" style="color:#58a6ff">Suggestion 26-BK-3</a> to the Advisory Committee on Bankruptcy Rules</p>
+<p style="color:#9eaab6;font-size:0.8rem;margin:0">Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts</p>
+</div>
+</body>
+</html>
