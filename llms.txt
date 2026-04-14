@@ -1,20 +1,21 @@
-# Bankruptcy Lien Stripping -- How Lien Stripping Works in Chapter 13 [2026] -- Lienstripping
+# Bankruptcy Lien Stripping - How Lien Stripping Works in Chapter 13 [2026] - Lienstripping
 > Lien stripping removes underwater junior liens in Chapter 13 bankruptcy. Learn eligibility, valuation, and the stripping process. 2026 guide.
 
 ## About
 lienstripping.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- What Happens to a Stripped Lien After Chapter 13 Discharge? -- Lienstripping: https://lienstripping.org/after-chapter-13.html
-- Lien Stripping Case Law -- Key Decisions by Circuit -- Lienstripping: https://lienstripping.org/case-law.html
-- Cramdown: Reducing Secured Debts to Property Value -- Lienstripping: https://lienstripping.org/cramdown.html
-- Lien Stripping Eligibility -- Requirements and Limitations -- Lienstripping: https://lienstripping.org/eligibility.html
-- How Lien Stripping Works in Chapter 13 Bankruptcy -- Step by Step -- Lienstripping: https://lienstripping.org/how-it-works.html
-- Bankruptcy Lien Stripping -- How Lien Stripping Works in Chapter 13 [2026] -- Lienstripping: https://lienstripping.org/
-- Lien Avoidance Under Section 522(f) -- Lienstripping: https://lienstripping.org/lien-avoidance.html
-- Lien Stripping in Chapter 13 Bankruptcy -- Lienstripping: https://lienstripping.org/lien-stripping.html
-- Strip Your Second Mortgage in Chapter 13 -- The Complete Guide -- Lienstripping: https://lienstripping.org/second-mortgage.html
-- Lien Stripping vs. Cramdown -- What's the Difference? -- Lienstripping: https://lienstripping.org/vs-cramdown.html
+- What Happens to a Stripped Lien After Chapter 13 Discharge? - Lienstripping: https://lienstripping.org/after-chapter-13.html
+- Lien Stripping Case Law - Key Decisions by Circuit - Lienstripping: https://lienstripping.org/case-law.html
+- Cramdown: Reducing Secured Debts to Property Value - Lienstripping: https://lienstripping.org/cramdown.html
+- Lien Stripping Eligibility - Requirements and Limitations - Lienstripping: https://lienstripping.org/eligibility.html
+- How Lien Stripping Works in Chapter 13 Bankruptcy - Step by Step - Lienstripping: https://lienstripping.org/how-it-works.html
+- Bankruptcy Lien Stripping - How Lien Stripping Works in Chapter 13 [2026] - Lienstripping: https://lienstripping.org/
+- Lien Avoidance Under Section 522(f) - Lienstripping: https://lienstripping.org/lien-avoidance.html
+- Lien Stripping in Chapter 13 Bankruptcy - Lienstripping: https://lienstripping.org/lien-stripping.html
+- Strip Your Second Mortgage in Chapter 13 - The Complete Guide - Lienstripping: https://lienstripping.org/second-mortgage.html
+- Lien Stripping vs. Cramdown - What's the Difference? - Lienstripping: https://lienstripping.org/vs-cramdown.html
+- Privacy Policy: https://lienstripping.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

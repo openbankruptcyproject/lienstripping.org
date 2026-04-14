@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## What Happens to a Stripped Lien After Chapter 13 Discharge? -- Lienstripping
+## What Happens to a Stripped Lien After Chapter 13 Discharge? - Lienstripping
 Source: https://lienstripping.org/after-chapter-13.html
 
 Skip to main content
@@ -24,21 +24,21 @@ Case Law
 
 What Happens to a Stripped Lien After Chapter 13 Discharge?
 
-The lien is voided upon discharge -- but you still need to clear the records and protect your rights.
+The lien is voided upon discharge - but you still need to clear the records and protect your rights.
 
 Home › After Chapter 13 Discharge
 
 The Lien Is Voided Upon Discharge
 
-Upon completion of the Chapter 13 plan and entry of the discharge order, a stripped lien is permanently voided. The two court orders -- the order determining the junior lien was wholly unsecured, and the discharge order -- together eliminate the lien by operation of law.
+Upon completion of the Chapter 13 plan and entry of the discharge order, a stripped lien is permanently voided. The two court orders - the order determining the junior lien was wholly unsecured, and the discharge order - together eliminate the lien by operation of law.
 
 This is the culmination of the 3-to-5-year process. During the plan, the lien technically remained on the property records even though the court had ruled it wholly unsecured. The discharge is what makes the strip permanent and irreversible.
 
-The practical result: You own your home free of the junior lien. The debt has been discharged. The lien has been voided. The former lien holder has no further claim against your property -- not now, not ever.
+The practical result: You own your home free of the junior lien. The debt has been discharged. The lien has been voided. The former lien holder has no further claim against your property - not now, not ever.
 
 Recording the Lien Release
 
-Even though the lien is legally voided upon discharge, your county property records may still show the old lien. This is a paperwork issue, not a legal one -- but it can cause problems when you try to sell or refinance the home. You need to take affirmative steps to clear the lien from the records.
+Even though the lien is legally voided upon discharge, your county property records may still show the old lien. This is a paperwork issue, not a legal one - but it can cause problems when you try to sell or refinance the home. You need to take affirmative steps to clear the lien from the records.
 
 Step 1: Obtain Certified Copies of the Court Orders
 
@@ -52,7 +52,7 @@ Step 3: Request a Release From the Lender
 
 Send the lender (the former junior lien holder) copies of the discharge order and lien strip order, along with a written request that they execute and record a formal lien release, satisfaction of mortgage, or reconveyance deed (the terminology varies by state). Many lenders will comply voluntarily, though some are slow to act.
 
-Some courts help automatically. Certain bankruptcy courts enter a separate order at the end of the case specifically voiding the lien and directing the lien holder to release it. If your court does this, the process is simpler -- you record that single order with the county. Ask your court or attorney whether this is available in your jurisdiction.
+Some courts help automatically. Certain bankruptcy courts enter a separate order at the end of the case specifically voiding the lien and directing the lien holder to release it. If your court does this, the process is simpler - you record that single order with the county. Ask your court or attorney whether this is available in your jurisdiction.
 
 What If the Lender Refuses to Release the Lien?
 
@@ -104,7 +104,7 @@ Case conversion: If you convert from Chapter 13 to Chapter 7, the lien strip is 
 
 Hardship Discharge and Lien Stripping
 
-If you cannot complete your Chapter 13 plan due to circumstances beyond your control -- serious illness, disability, or other hardship -- you may be eligible for a hardship discharge under 11 U.S.C. Section 1328(b). A hardship discharge is granted without completion of all plan payments if three conditions are met:
+If you cannot complete your Chapter 13 plan due to circumstances beyond your control - serious illness, disability, or other hardship - you may be eligible for a hardship discharge under 11 U.S.C. Section 1328(b). A hardship discharge is granted without completion of all plan payments if three conditions are met:
 
 The debtor's failure to complete the plan is due to circumstances for which the debtor should not justly be held accountable.
 
@@ -136,15 +136,15 @@ No. If the case is dismissed before discharge, the lien strip is completely undo
 
 Related Resources
 
-How Lien Stripping Works -- The step-by-step process
+How Lien Stripping Works - The step-by-step process
 
-Strip Your Second Mortgage -- The most common application
+Strip Your Second Mortgage - The most common application
 
-Discharge Injunction -- How the discharge protects you from creditor collection
+Discharge Injunction - How the discharge protects you from creditor collection
 
-Section 1328(b) Hardship Discharge -- Discharge without completing the plan
+Section 1328(b) Hardship Discharge - Discharge without completing the plan
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work
+Chapter 13 Plans - How Chapter 13 repayment plans work
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -168,10 +168,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -274,7 +274,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Lien Stripping Case Law -- Key Decisions by Circuit -- Lienstripping
+## Lien Stripping Case Law - Key Decisions by Circuit - Lienstripping
 Source: https://lienstripping.org/case-law.html
 
 Skip to main content
@@ -290,7 +290,7 @@ Cramdown
 Eligibility
 Case Law
 
-Lien Stripping Case Law -- Key Decisions by Circuit
+Lien Stripping Case Law - Key Decisions by Circuit
 
 The Supreme Court and circuit court decisions that define how lien stripping works in American bankruptcy law.
 
@@ -304,9 +304,9 @@ Nobelman v. American Savings Bank, 508 U.S. 324 (1993)
 
 The case that made lien stripping possible.
 
-The Nobelmans filed Chapter 13 and proposed a plan that would reduce their home mortgage to the property's value. The Supreme Court held that Section 1322(b)(2) -- the anti-modification clause -- prohibits modification of the rights of a holder of a claim "secured by" the debtor's principal residence.
+The Nobelmans filed Chapter 13 and proposed a plan that would reduce their home mortgage to the property's value. The Supreme Court held that Section 1322(b)(2) - the anti-modification clause - prohibits modification of the rights of a holder of a claim "secured by" the debtor's principal residence.
 
-But here is the critical part: Justice Thomas, writing for the majority, noted in a footnote (footnote 4) that if a junior lien is wholly unsecured -- meaning the senior lien equals or exceeds the property's value -- the junior lien holder does not hold a claim "secured by" the residence. Therefore, the anti-modification clause does not protect a wholly unsecured junior lien.
+But here is the critical part: Justice Thomas, writing for the majority, noted in a footnote (footnote 4) that if a junior lien is wholly unsecured - meaning the senior lien equals or exceeds the property's value - the junior lien holder does not hold a claim "secured by" the residence. Therefore, the anti-modification clause does not protect a wholly unsecured junior lien.
 
 This footnote became the foundation for lien stripping in Chapter 13. Every circuit has since adopted the principle: wholly unsecured junior liens fall outside Section 1322(b)(2)'s protection and can be stripped in a Chapter 13 plan.
 
@@ -320,7 +320,7 @@ The Dewsnups filed Chapter 7 and sought to use Section 506(d) to strip their mor
 
 The Court's reasoning was textual: it interpreted "allowed secured claim" in Section 506(d) differently from the same phrase in Section 506(a). Under 506(a), a claim is "secured" only to the extent of the collateral's value. But under 506(d), the Court held that a claim is "secured" as long as a lien exists. Since the Dewsnups' mortgage lien had not been invalidated, the claim was "secured" for 506(d) purposes, and the lien could not be stripped.
 
-This decision has been widely criticized by scholars and practitioners as internally inconsistent -- how can "secured claim" mean one thing in Section 506(a) and another in Section 506(d)? But it remains the law.
+This decision has been widely criticized by scholars and practitioners as internally inconsistent - how can "secured claim" mean one thing in Section 506(a) and another in Section 506(d)? But it remains the law.
 
 Practical impact: Chapter 7 debtors cannot strip liens. If you have a wholly unsecured second mortgage, you must file Chapter 13 to strip it. In Chapter 7, the personal liability is discharged but the lien survives on the property.
 
@@ -340,25 +340,25 @@ Every federal circuit court that has addressed lien stripping of wholly unsecure
 
 2nd Circuit
 
-In re Pond, 252 F.3d 122 (2d Cir. 2001) -- Confirmed that a wholly unsecured junior lien can be stripped in Chapter 13, following Nobelman. The court applied the bifurcation analysis of Section 506(a): if the property value does not exceed the senior lien, the junior lien has zero secured value.
+In re Pond, 252 F.3d 122 (2d Cir. 2001) - Confirmed that a wholly unsecured junior lien can be stripped in Chapter 13, following Nobelman. The court applied the bifurcation analysis of Section 506(a): if the property value does not exceed the senior lien, the junior lien has zero secured value.
 
 5th Circuit
 
-In re Bartee, 212 F.3d 277 (5th Cir. 2000) -- One of the early circuit court decisions explicitly allowing Chapter 13 lien stripping of wholly unsecured junior liens. Established that the Nobelman footnote is binding and that the anti-modification clause does not protect wholly unsecured claims.
+In re Bartee, 212 F.3d 277 (5th Cir. 2000) - One of the early circuit court decisions explicitly allowing Chapter 13 lien stripping of wholly unsecured junior liens. Established that the Nobelman footnote is binding and that the anti-modification clause does not protect wholly unsecured claims.
 
 9th Circuit
 
-Zimmer v. PSB Lending Corp., 313 F.3d 1220 (9th Cir. 2002) -- Held that a wholly unsecured junior lien can be stripped under Section 506(a) in Chapter 13. The 9th Circuit is one of the most active circuits for lien stripping litigation due to the volatile real estate markets in California, Oregon, Washington, and Hawaii.
+Zimmer v. PSB Lending Corp., 313 F.3d 1220 (9th Cir. 2002) - Held that a wholly unsecured junior lien can be stripped under Section 506(a) in Chapter 13. The 9th Circuit is one of the most active circuits for lien stripping litigation due to the volatile real estate markets in California, Oregon, Washington, and Hawaii.
 
 10th Circuit
 
-In re Woolsey, 696 F.3d 1266 (10th Cir. 2012) -- Confirmed lien stripping of wholly unsecured junior liens in Chapter 13. Applied the standard Nobelman analysis.
+In re Woolsey, 696 F.3d 1266 (10th Cir. 2012) - Confirmed lien stripping of wholly unsecured junior liens in Chapter 13. Applied the standard Nobelman analysis.
 
 11th Circuit
 
-In re Tanner, 217 F.3d 1357 (11th Cir. 2000) -- Established the 11th Circuit's framework for lien stripping in Chapter 13. The 11th Circuit (covering Florida, Georgia, and Alabama) sees substantial lien stripping activity due to housing market volatility.
+In re Tanner, 217 F.3d 1357 (11th Cir. 2000) - Established the 11th Circuit's framework for lien stripping in Chapter 13. The 11th Circuit (covering Florida, Georgia, and Alabama) sees substantial lien stripping activity due to housing market volatility.
 
-In re McNeal, 477 Fed. Appx. 562 (11th Cir. 2012) -- Reaffirmed lien stripping availability and addressed procedural requirements.
+In re McNeal, 477 Fed. Appx. 562 (11th Cir. 2012) - Reaffirmed lien stripping availability and addressed procedural requirements.
 
 Other Circuits
 
@@ -368,7 +368,7 @@ Evolving Issues
 
 Lien Stripping in Chapter 11 Sub V
 
-Subchapter V of Chapter 11, created by the Small Business Reorganization Act of 2019, allows small businesses to reorganize with a streamlined process. Some courts have extended lien stripping to Chapter 11 Sub V cases, applying reasoning similar to Chapter 13. This is a developing area of law -- not all circuits have addressed it, and practitioners should check current local authority.
+Subchapter V of Chapter 11, created by the Small Business Reorganization Act of 2019, allows small businesses to reorganize with a streamlined process. Some courts have extended lien stripping to Chapter 11 Sub V cases, applying reasoning similar to Chapter 13. This is a developing area of law - not all circuits have addressed it, and practitioners should check current local authority.
 
 Valuation Date Disputes
 
@@ -376,11 +376,11 @@ Most courts use the petition date for valuation, but some allow the valuation da
 
 The Effect of Dewsnup Expansion
 
-After Caulkett confirmed that Dewsnup applies to wholly unsecured liens in Chapter 7, some commentators have questioned whether the logical inconsistency between Dewsnup and Nobelman will eventually be addressed by the Supreme Court. For now, the two decisions coexist: Dewsnup bars Chapter 7 lien stripping, while Nobelman permits Chapter 13 lien stripping. The distinction rests on the different mechanisms -- Chapter 13 uses the plan process under Section 1322(b), not Section 506(d).
+After Caulkett confirmed that Dewsnup applies to wholly unsecured liens in Chapter 7, some commentators have questioned whether the logical inconsistency between Dewsnup and Nobelman will eventually be addressed by the Supreme Court. For now, the two decisions coexist: Dewsnup bars Chapter 7 lien stripping, while Nobelman permits Chapter 13 lien stripping. The distinction rests on the different mechanisms - Chapter 13 uses the plan process under Section 1322(b), not Section 506(d).
 
 Shared Appreciation Mortgages
 
-Some mortgages include shared appreciation provisions -- the lender receives a share of any increase in the home's value. These create complications for lien stripping because the lien holder may argue that the potential appreciation gives the lien some value even if the home is currently underwater. Courts have generally rejected this argument, holding that valuation is based on current market value, not speculative future appreciation.
+Some mortgages include shared appreciation provisions - the lender receives a share of any increase in the home's value. These create complications for lien stripping because the lien holder may argue that the potential appreciation gives the lien some value even if the home is currently underwater. Courts have generally rejected this argument, holding that valuation is based on current market value, not speculative future appreciation.
 
 Practical Takeaway
 
@@ -400,11 +400,11 @@ Yes. Lien stripping of wholly unsecured junior liens in Chapter 13 is legal in e
 
 What is the Nobelman decision?
 
-Nobelman established that the anti-modification clause of Section 1322(b)(2) only protects claims that are actually "secured by" the debtor's residence. A wholly unsecured junior lien -- one with zero equity -- is not "secured by" the residence, so it can be modified (stripped) in a Chapter 13 plan.
+Nobelman established that the anti-modification clause of Section 1322(b)(2) only protects claims that are actually "secured by" the debtor's residence. A wholly unsecured junior lien - one with zero equity - is not "secured by" the residence, so it can be modified (stripped) in a Chapter 13 plan.
 
 Why can't I strip a lien in Chapter 7?
 
-Because of Dewsnup v. Timm (1992) and Bank of America v. Caulkett (2015). The Supreme Court held that Section 506(d) cannot be used to strip liens in Chapter 7, even when the lien is wholly unsecured. Chapter 13 uses a different mechanism -- the plan process under Section 1322(b) -- which is not subject to the Dewsnup limitation.
+Because of Dewsnup v. Timm (1992) and Bank of America v. Caulkett (2015). The Supreme Court held that Section 506(d) cannot be used to strip liens in Chapter 7, even when the lien is wholly unsecured. Chapter 13 uses a different mechanism - the plan process under Section 1322(b) - which is not subject to the Dewsnup limitation.
 
 Are there any circuits where lien stripping is not allowed?
 
@@ -412,11 +412,11 @@ No. Every circuit that has addressed wholly unsecured junior lien stripping in C
 
 Legal References
 
-Nobelman v. American Savings Bank, 508 U.S. 324 (1993) -- Anti-modification exception for wholly unsecured liens
+Nobelman v. American Savings Bank, 508 U.S. 324 (1993) - Anti-modification exception for wholly unsecured liens
 
-Dewsnup v. Timm, 502 U.S. 410 (1992) -- No lien stripping in Chapter 7
+Dewsnup v. Timm, 502 U.S. 410 (1992) - No lien stripping in Chapter 7
 
-Bank of America v. Caulkett, 575 U.S. 790 (2015) -- Dewsnup extends to wholly unsecured Chapter 7 liens
+Bank of America v. Caulkett, 575 U.S. 790 (2015) - Dewsnup extends to wholly unsecured Chapter 7 liens
 
 In re Pond, 252 F.3d 122 (2d Cir. 2001)
 
@@ -428,21 +428,21 @@ In re Woolsey, 696 F.3d 1266 (10th Cir. 2012)
 
 In re Tanner, 217 F.3d 1357 (11th Cir. 2000)
 
-11 U.S.C. Section 506(a) -- Determination of secured status
+11 U.S.C. Section 506(a) - Determination of secured status
 
-11 U.S.C. Section 1322(b)(2) -- Anti-modification clause
+11 U.S.C. Section 1322(b)(2) - Anti-modification clause
 
 Related Resources
 
-Eligibility Requirements -- Who qualifies for lien stripping
+Eligibility Requirements - Who qualifies for lien stripping
 
-How Lien Stripping Works -- Step-by-step process
+How Lien Stripping Works - Step-by-step process
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work
+Chapter 13 Plans - How Chapter 13 repayment plans work
 
-Section 727(a)(8) -- Chapter 7 discharge timing bars
+Section 727(a)(8) - Chapter 7 discharge timing bars
 
-Section 1328 -- Chapter 13 discharge requirements
+Section 1328 - Chapter 13 discharge requirements
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -466,10 +466,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -570,7 +570,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Cramdown: Reducing Secured Debts to Property Value -- Lienstripping
+## Cramdown: Reducing Secured Debts to Property Value - Lienstripping
 Source: https://lienstripping.org/cramdown.html
 
 Skip to main content
@@ -588,13 +588,15 @@ Case Law
 
 Cramdown: Reducing Secured Debts to Property Value
 
-How Section 506(a) bifurcation lets you pay only what your property is actually worth -- and treat the rest as unsecured debt.
+How Section 506(a) bifurcation lets you pay only what your property is actually worth - and treat the rest as unsecured debt.
+
+Home›Cramdown
 
 What Is Cramdown?
 
-Cramdown is a bankruptcy procedure that reduces a secured claim to the current market value of the collateral. The term comes from the idea that the debtor "crams down" a lower amount on the creditor -- the creditor is forced to accept less than the full balance owed, because the law ties the secured claim to property value rather than contract balance.
+Cramdown is a bankruptcy procedure that reduces a secured claim to the current market value of the collateral. The term comes from the idea that the debtor "crams down" a lower amount on the creditor - the creditor is forced to accept less than the full balance owed, because the law ties the secured claim to property value rather than contract balance.
 
-The legal basis is 11 U.S.C. Section 506(a), which provides that a claim is secured only to the extent of the value of the creditor's interest in the estate's property. The excess -- the amount owed above the property's value -- becomes an unsecured claim.
+The legal basis is 11 U.S.C. Section 506(a), which provides that a claim is secured only to the extent of the value of the creditor's interest in the estate's property. The excess - the amount owed above the property's value - becomes an unsecured claim.
 
 This process is called bifurcation: splitting a single claim into two parts. The secured portion must be paid in full (usually with interest at a court-approved rate), while the unsecured portion is lumped in with other unsecured claims and may receive only a fraction of what is owed.
 
@@ -602,7 +604,7 @@ Example: You owe $15,000 on a car loan, but the car is worth only $9,000. Throug
 
 Car Cramdown: The Most Common Use
 
-The most frequent application of cramdown is to vehicle loans in Chapter 13. Cars depreciate rapidly, and it is common for a debtor to owe significantly more on a car loan than the vehicle is worth -- especially if the loan had a high interest rate, a long term, or negative equity was rolled in from a previous vehicle.
+The most frequent application of cramdown is to vehicle loans in Chapter 13. Cars depreciate rapidly, and it is common for a debtor to owe significantly more on a car loan than the vehicle is worth - especially if the loan had a high interest rate, a long term, or negative equity was rolled in from a previous vehicle.
 
 In a car cramdown, the court determines the vehicle's current replacement value (as defined by the Supreme Court in Associates Commercial Corp. v. Rash, 520 U.S. 953 (1997)). This is the price a retail buyer would pay for a comparable vehicle, with adjustments for the vehicle's condition. The secured claim is then reduced to this value.
 
@@ -612,19 +614,19 @@ Valuation Sources
 
 Courts commonly consider the following when determining a vehicle's replacement value:
 
-NADA (National Automobile Dealers Association) guides -- Many courts consider NADA retail value the starting point
+NADA (National Automobile Dealers Association) guides - Many courts consider NADA retail value the starting point
 
-Kelley Blue Book -- Widely used, though some courts prefer NADA
+Kelley Blue Book - Widely used, though some courts prefer NADA
 
-Actual dealer listings -- Comparable vehicles currently for sale in the debtor's area
+Actual dealer listings - Comparable vehicles currently for sale in the debtor's area
 
-Vehicle condition -- High mileage, mechanical issues, and body damage reduce value
+Vehicle condition - High mileage, mechanical issues, and body damage reduce value
 
 The debtor should present valuation evidence supporting a lower value, while the creditor will typically argue for a higher value. The court makes the final determination based on the evidence presented.
 
 The 910-Day Rule (Hanging Paragraph)
 
-Congress added a major limitation to car cramdown as part of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (BAPCPA). The "hanging paragraph" of Section 1325(a) -- so called because it literally hangs at the end of the section without a subsection number -- prevents cramdown on purchase money security interests in motor vehicles acquired within 910 days (approximately 2.5 years) before the bankruptcy filing.
+Congress added a major limitation to car cramdown as part of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (BAPCPA). The "hanging paragraph" of Section 1325(a) - so called because it literally hangs at the end of the section without a subsection number - prevents cramdown on purchase money security interests in motor vehicles acquired within 910 days (approximately 2.5 years) before the bankruptcy filing.
 
 If you purchased your vehicle within 910 days before filing, you generally must pay the full contract balance as a secured claim. The lender's claim cannot be bifurcated, and you must pay it in full through your Chapter 13 plan (though you may still benefit from a lower interest rate under the Till formula in some circuits).
 
@@ -646,27 +648,27 @@ Count backwards 910 days from your bankruptcy filing date. If you purchased the 
 
 Cramdown Beyond Cars
 
-While car loans are the most common target, cramdown under Section 506(a) applies to any secured claim on any property -- with certain exceptions. Other common applications include:
+While car loans are the most common target, cramdown under Section 506(a) applies to any secured claim on any property - with certain exceptions. Other common applications include:
 
-Furniture and electronics loans -- Rent-to-own and financed furniture/electronics that have depreciated significantly
+Furniture and electronics loans - Rent-to-own and financed furniture/electronics that have depreciated significantly
 
-Business equipment -- Equipment loans in Chapter 11 or Chapter 13 cases
+Business equipment - Equipment loans in Chapter 11 or Chapter 13 cases
 
-Investment property mortgages -- Mortgages on rental or investment properties (the anti-modification clause only protects the debtor's principal residence)
+Investment property mortgages - Mortgages on rental or investment properties (the anti-modification clause only protects the debtor's principal residence)
 
-Boats, RVs, and recreational vehicles -- Similar to car cramdown but without the 910-day hanging paragraph limitation (which applies only to motor vehicles)
+Boats, RVs, and recreational vehicles - Similar to car cramdown but without the 910-day hanging paragraph limitation (which applies only to motor vehicles)
 
 For personal property other than motor vehicles, the hanging paragraph includes a separate 1-year window: cramdown is unavailable for purchase money security interests in "any other thing of value" acquired within one year before filing. This primarily affects furniture and electronics financed through store credit.
 
 What Cramdown Cannot Touch
 
-The most significant limitation on cramdown is Section 1322(b)(2), the anti-modification clause. A Chapter 13 plan cannot modify the rights of a holder of a claim secured only by a security interest in the debtor's principal residence. This means you cannot cram down your primary home mortgage -- even if the home is worth less than you owe.
+The most significant limitation on cramdown is Section 1322(b)(2), the anti-modification clause. A Chapter 13 plan cannot modify the rights of a holder of a claim secured only by a security interest in the debtor's principal residence. This means you cannot cram down your primary home mortgage - even if the home is worth less than you owe.
 
 This protection applies only to the first mortgage on the debtor's principal residence. It does not protect second mortgages that are wholly unsecured (those can be stripped), mortgages on investment property, or mortgages where the creditor also holds a lien on other property. See why liens survive discharge for more on what happens to secured claims after bankruptcy.
 
 The Cramdown Interest Rate
 
-When a secured claim is crammed down, the creditor is entitled to receive the present value of the secured claim -- meaning the debtor must pay interest on the crammed-down amount. The question is: at what rate?
+When a secured claim is crammed down, the creditor is entitled to receive the present value of the secured claim - meaning the debtor must pay interest on the crammed-down amount. The question is: at what rate?
 
 The Supreme Court addressed this in Till v. SCS Credit Corp., 541 U.S. 465 (2004), adopting the "formula" or "prime-plus" approach for Chapter 13 cases. The court starts with the national prime rate (published by the Federal Reserve) and adds a risk adjustment of 1-3% to account for the risk of nonpayment. The resulting rate is typically well below subprime auto loan rates.
 
@@ -674,19 +676,19 @@ For example, if the prime rate is 8.5% and the court adds a 2% risk adjustment, 
 
 Legal References
 
-11 U.S.C. Section 506(a) -- Determination of secured status (bifurcation)
+11 U.S.C. Section 506(a) - Determination of secured status (bifurcation)
 
-11 U.S.C. Section 1325(a) -- Hanging paragraph (910-day rule)
+11 U.S.C. Section 1325(a) - Hanging paragraph (910-day rule)
 
-11 U.S.C. Section 1322(b)(2) -- Anti-modification clause for principal residence
+11 U.S.C. Section 1322(b)(2) - Anti-modification clause for principal residence
 
-Associates Commercial Corp. v. Rash, 520 U.S. 953 (1997) -- Replacement value standard for cramdown valuation
+Associates Commercial Corp. v. Rash, 520 U.S. 953 (1997) - Replacement value standard for cramdown valuation
 
-Till v. SCS Credit Corp., 541 U.S. 465 (2004) -- Formula approach for cramdown interest rate
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - Formula approach for cramdown interest rate
 
-1328f.com -- Chapter 13 discharge screener and eligibility data
+1328f.com - Chapter 13 discharge screener and eligibility data
 
-bankruptcyexemptions.com -- Exemption laws by state
+bankruptcyexemptions.com - Exemption laws by state
 
 Related Guides
 
@@ -703,10 +705,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -806,7 +808,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Lien Stripping Eligibility -- Requirements and Limitations -- Lienstripping
+## Lien Stripping Eligibility - Requirements and Limitations - Lienstripping
 Source: https://lienstripping.org/eligibility.html
 
 Skip to main content
@@ -822,7 +824,7 @@ Cramdown
 Eligibility
 Case Law
 
-Lien Stripping Eligibility -- Requirements and Limitations
+Lien Stripping Eligibility - Requirements and Limitations
 
 Who qualifies for lien stripping, what evidence you need, and the situations where lien stripping is not available.
 
@@ -834,7 +836,7 @@ To qualify for lien stripping, you must meet all of the following requirements:
 
 File Chapter 13 bankruptcy (or Chapter 11 Sub V in some circuits). Lien stripping is NOT available in Chapter 7.
 
-The property must be your principal residence for the standard lien stripping analysis. (Different rules apply to investment property -- see below.)
+The property must be your principal residence for the standard lien stripping analysis. (Different rules apply to investment property - see below.)
 
 The junior lien must be WHOLLY unsecured on the petition date. The first mortgage balance must equal or exceed the property's current fair market value. If even $1 of equity reaches the junior lien, stripping is not available.
 
@@ -852,7 +854,7 @@ The Supreme Court held that Section 506(d) cannot be used to "strip down" a lien
 
 Bank of America v. Caulkett, 575 U.S. 790 (2015)
 
-The Supreme Court extended Dewsnup to wholly unsecured liens. Even if a junior lien has zero equity -- meaning it would be completely stripped in Chapter 13 -- it cannot be stripped in Chapter 7. The Court held that the Dewsnup rationale applies equally to wholly unsecured junior liens.
+The Supreme Court extended Dewsnup to wholly unsecured liens. Even if a junior lien has zero equity - meaning it would be completely stripped in Chapter 13 - it cannot be stripped in Chapter 7. The Court held that the Dewsnup rationale applies equally to wholly unsecured junior liens.
 
 This is a major disadvantage of Chapter 7 for homeowners. In Chapter 7, a wholly unsecured second mortgage survives the bankruptcy. The personal liability is discharged, but the lien remains on the home. In Chapter 13, the same lien can be stripped entirely. For homeowners with underwater junior mortgages, this is often the decisive factor in choosing Chapter 13 over Chapter 7.
 
@@ -888,13 +890,13 @@ Practical advice: If you are stripping a $40,000 lien, spending $400 on a formal
 
 Multiple Junior Liens
 
-If you have more than one junior lien -- for example, a second mortgage AND a third mortgage, or a second mortgage AND a HELOC -- you can potentially strip both. Each junior lien is analyzed separately, working from the most senior to the most junior.
+If you have more than one junior lien - for example, a second mortgage AND a third mortgage, or a second mortgage AND a HELOC - you can potentially strip both. Each junior lien is analyzed separately, working from the most senior to the most junior.
 
 The analysis cascades:
 
 Is the second mortgage wholly unsecured? (Does the first mortgage exceed the property value?)
 
-If yes, the second mortgage is stripped. Now ask: is the third mortgage wholly unsecured? Since the second mortgage is already wholly unsecured (and being stripped), the question is the same -- does the first mortgage exceed the property value?
+If yes, the second mortgage is stripped. Now ask: is the third mortgage wholly unsecured? Since the second mortgage is already wholly unsecured (and being stripped), the question is the same - does the first mortgage exceed the property value?
 
 If the first mortgage exceeds the property value, ALL junior liens are wholly unsecured and all can be stripped.
 
@@ -926,9 +928,9 @@ If your property serves as both your residence and a business (for example, a ho
 
 Timing Considerations
 
-The critical date for lien stripping is the petition date -- the date you file your bankruptcy case. Property values must be assessed as of that date (with some variation by circuit). This creates timing considerations:
+The critical date for lien stripping is the petition date - the date you file your bankruptcy case. Property values must be assessed as of that date (with some variation by circuit). This creates timing considerations:
 
-Declining market: If values are falling, filing sooner means the property is more likely to be underwater. Waiting may make lien stripping easier -- but you need to weigh this against other factors.
+Declining market: If values are falling, filing sooner means the property is more likely to be underwater. Waiting may make lien stripping easier - but you need to weigh this against other factors.
 
 Rising market: If values are increasing, delay could cost you. Every month of appreciation reduces the gap between your first mortgage and the property value. If the property rises above the first mortgage balance, lien stripping becomes unavailable.
 
@@ -954,15 +956,15 @@ Yes, the wholly unsecured analysis is the same. Investment property also has the
 
 Related Resources
 
-How Lien Stripping Works -- The step-by-step process
+How Lien Stripping Works - The step-by-step process
 
-Strip Your Second Mortgage -- The most common application
+Strip Your Second Mortgage - The most common application
 
-Key Case Law -- Dewsnup, Nobelman, Caulkett, and circuit decisions
+Key Case Law - Dewsnup, Nobelman, Caulkett, and circuit decisions
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work
+Chapter 13 Plans - How Chapter 13 repayment plans work
 
-What Is Chapter 7? -- Chapter 7 basics and how it compares to Chapter 13
+What Is Chapter 7? - Chapter 7 basics and how it compares to Chapter 13
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -986,10 +988,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -1090,7 +1092,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## How Lien Stripping Works in Chapter 13 Bankruptcy -- Step by Step -- Lienstripping
+## How Lien Stripping Works in Chapter 13 Bankruptcy - Step by Step - Lienstripping
 Source: https://lienstripping.org/how-it-works.html
 
 Skip to main content
@@ -1106,7 +1108,7 @@ Cramdown
 Eligibility
 Case Law
 
-How Lien Stripping Works in Chapter 13 -- Step by Step
+How Lien Stripping Works in Chapter 13 - Step by Step
 
 The complete process for removing a wholly unsecured junior lien from your property through Chapter 13 bankruptcy.
 
@@ -1116,11 +1118,11 @@ What Lien Stripping Does
 
 Lien stripping removes a wholly unsecured junior lien from your property through Chapter 13 bankruptcy. It is one of the most powerful tools available to homeowners who owe more on their first mortgage than their home is currently worth.
 
-The legal foundation is 11 U.S.C. Section 506(a), which determines secured status based on the value of the collateral. If the balance on the senior mortgage exceeds the property's current market value, there is no equity left for the junior lien to attach to. That junior lien -- whether a second mortgage, home equity line of credit (HELOC), or third mortgage -- is classified as wholly unsecured.
+The legal foundation is 11 U.S.C. Section 506(a), which determines secured status based on the value of the collateral. If the balance on the senior mortgage exceeds the property's current market value, there is no equity left for the junior lien to attach to. That junior lien - whether a second mortgage, home equity line of credit (HELOC), or third mortgage - is classified as wholly unsecured.
 
 Once a junior lien is determined to be wholly unsecured, it can be "stripped off" the property. The debt is reclassified as unsecured in the Chapter 13 plan, and upon discharge, the lien is voided entirely. The homeowner keeps the home free of that junior lien.
 
-The core principle: A secured claim is only secured to the extent of the value of the collateral. If the collateral is already fully encumbered by the first mortgage, the second mortgage has zero secured value -- and can be eliminated through lien stripping.
+The core principle: A secured claim is only secured to the extent of the value of the collateral. If the collateral is already fully encumbered by the first mortgage, the second mortgage has zero secured value - and can be eliminated through lien stripping.
 
 The Step-by-Step Process
 
@@ -1132,41 +1134,41 @@ The first and most critical step is establishing what your home is worth right n
 
 Common methods for establishing property value include:
 
-Formal appraisal -- The gold standard. A licensed appraiser inspects the property and prepares a written report. This is the strongest evidence in court but also the most expensive (typically $300 to $500).
+Formal appraisal - The gold standard. A licensed appraiser inspects the property and prepares a written report. This is the strongest evidence in court but also the most expensive (typically $300 to $500).
 
-Broker price opinion (BPO) -- A real estate agent provides an estimate based on comparable sales. Less expensive than a full appraisal and accepted by many courts.
+Broker price opinion (BPO) - A real estate agent provides an estimate based on comparable sales. Less expensive than a full appraisal and accepted by many courts.
 
-Comparable sales analysis -- Your attorney compiles recent sales of similar properties in your area. This can be effective but may be challenged by the lien holder.
+Comparable sales analysis - Your attorney compiles recent sales of similar properties in your area. This can be effective but may be challenged by the lien holder.
 
-Online estimates -- Zillow Zestimates and similar tools. These are generally considered weaker evidence, but some courts accept them as a starting point.
+Online estimates - Zillow Zestimates and similar tools. These are generally considered weaker evidence, but some courts accept them as a starting point.
 
 The relevant date for valuation is typically the date you filed your bankruptcy petition. Some courts use the date of the lien stripping hearing instead. Check your local court's practice.
 
 Step 2: Determine Your First Mortgage Balance
 
-Pull your most recent mortgage statement to determine the exact payoff balance on your first mortgage. This includes the principal balance, accrued interest, and any fees. The payoff amount -- not the monthly statement balance -- is what matters.
+Pull your most recent mortgage statement to determine the exact payoff balance on your first mortgage. This includes the principal balance, accrued interest, and any fees. The payoff amount - not the monthly statement balance - is what matters.
 
 If you have a mortgage that has been modified, the modified balance is what counts. If you are in arrears, the total amount owed (including arrears) is the relevant figure.
 
-Step 3: Compare -- Is the Junior Lien Wholly Unsecured?
+Step 3: Compare - Is the Junior Lien Wholly Unsecured?
 
 This is the critical comparison. If the first mortgage balance is greater than or equal to the property's current market value, the junior lien is wholly unsecured and can be stripped.
 
 Example: Your home is worth $185,000. Your first mortgage balance is $192,000. Because $192,000 exceeds $185,000, your second mortgage (say, $45,000) is wholly unsecured. It can be stripped.
 
-Counter-example: Your home is worth $200,000. Your first mortgage balance is $198,000. There is $2,000 of equity reaching the second mortgage. Because the second mortgage is not wholly unsecured -- it has $2,000 of secured value -- lien stripping is NOT available. Even $1 of equity reaching the junior lien defeats lien stripping.
+Counter-example: Your home is worth $200,000. Your first mortgage balance is $198,000. There is $2,000 of equity reaching the second mortgage. Because the second mortgage is not wholly unsecured - it has $2,000 of secured value - lien stripping is NOT available. Even $1 of equity reaching the junior lien defeats lien stripping.
 
 Step 4: File the Motion to Value or Strip the Lien
 
 Assuming the junior lien is wholly unsecured, the next step is filing a motion with the bankruptcy court. Different courts call this different things:
 
-Motion to determine secured status -- The most common name
+Motion to determine secured status - The most common name
 
-Motion to value lien -- Used in many jurisdictions
+Motion to value lien - Used in many jurisdictions
 
-Motion to strip lien -- A more informal but widely understood term
+Motion to strip lien - A more informal but widely understood term
 
-Adversary proceeding -- Some courts require a full adversary proceeding (a separate lawsuit within the bankruptcy) rather than a simple motion
+Adversary proceeding - Some courts require a full adversary proceeding (a separate lawsuit within the bankruptcy) rather than a simple motion
 
 The motion must include evidence of the property's value and the first mortgage balance, and it must demonstrate that the junior lien is wholly unsecured. Your local court may have a specific form or format requirement.
 
@@ -1178,11 +1180,11 @@ The plan must still meet all other Chapter 13 requirements, including the best-i
 
 Step 6: Complete the Plan
 
-You must complete all payments under your Chapter 13 plan. This takes 3 to 5 years depending on your income level and the plan terms. During this time, the junior lien technically still exists -- it has been determined to be unsecured, but the actual lien removal happens only upon discharge.
+You must complete all payments under your Chapter 13 plan. This takes 3 to 5 years depending on your income level and the plan terms. During this time, the junior lien technically still exists - it has been determined to be unsecured, but the actual lien removal happens only upon discharge.
 
 This is a critical point that many people miss: the lien is not stripped until you get your discharge. If your case is dismissed before you finish the plan, the lien survives in full force. The 3-to-5-year commitment is the price of lien stripping.
 
-Step 7: Discharge -- The Lien Is Voided
+Step 7: Discharge - The Lien Is Voided
 
 Upon successful completion of the plan and entry of the Chapter 13 discharge, the junior lien is voided by operation of law. The combination of the court's order determining the lien to be wholly unsecured and the discharge order together eliminate the lien.
 
@@ -1194,7 +1196,7 @@ This is the single most important legal concept in lien stripping: the junior li
 
 If the property is worth even $1 more than the first mortgage balance, the junior lien has $1 of secured value. In most circuits, that $1 of equity reaching the junior lien makes lien stripping unavailable. The junior lien holder would retain its lien for the full amount of its claim (subject to the property's value), and the debtor cannot strip it.
 
-This all-or-nothing rule comes from the interplay between Section 506(a) (which determines secured status) and Section 1322(b)(2) (the anti-modification clause that protects home mortgage holders). The Supreme Court addressed this in Nobelman v. American Savings Bank, 508 U.S. 324 (1993), holding that the anti-modification clause protects liens that are secured by the debtor's principal residence -- but only if the lien actually has secured value. A wholly unsecured junior lien is not "secured by" the residence, so the anti-modification clause does not protect it.
+This all-or-nothing rule comes from the interplay between Section 506(a) (which determines secured status) and Section 1322(b)(2) (the anti-modification clause that protects home mortgage holders). The Supreme Court addressed this in Nobelman v. American Savings Bank, 508 U.S. 324 (1993), holding that the anti-modification clause protects liens that are secured by the debtor's principal residence - but only if the lien actually has secured value. A wholly unsecured junior lien is not "secured by" the residence, so the anti-modification clause does not protect it.
 
 The practical implication: accurate property valuation is everything. A few thousand dollars in either direction can make the difference between stripping a $50,000 second mortgage and being stuck with it.
 
@@ -1210,7 +1212,7 @@ During the plan: The lien technically remains on the property records throughout
 
 Discharge: Upon completion of the plan and entry of the discharge order, the lien is voided. This is the point at which lien stripping becomes permanent.
 
-If the case is dismissed: The lien survives. Period. If you cannot complete your Chapter 13 plan -- whether due to job loss, illness, or any other reason -- and the case is dismissed, the junior lien springs back to full force as though the bankruptcy never happened. This is why completing the plan is essential.
+If the case is dismissed: The lien survives. Period. If you cannot complete your Chapter 13 plan - whether due to job loss, illness, or any other reason - and the case is dismissed, the junior lien springs back to full force as though the bankruptcy never happened. This is why completing the plan is essential.
 
 If the case is converted from Chapter 13 to Chapter 7, the lien strip is also lost. Chapter 7 does not allow lien stripping (see case law), so converting the case means the junior lien survives.
 
@@ -1238,11 +1240,11 @@ Lien stripping removes a wholly unsecured junior lien from your property through
 
 When is the lien actually removed?
 
-The lien is not removed until you receive your Chapter 13 discharge -- which occurs after you complete all plan payments over 3 to 5 years. During the plan, the court has ruled the lien is wholly unsecured, but the lien technically remains on the property records until discharge. If the case is dismissed before discharge, the lien survives.
+The lien is not removed until you receive your Chapter 13 discharge - which occurs after you complete all plan payments over 3 to 5 years. During the plan, the court has ruled the lien is wholly unsecured, but the lien technically remains on the property records until discharge. If the case is dismissed before discharge, the lien survives.
 
 What if the bank disagrees with the property value?
 
-The bank (junior lien holder) can object to your proposed valuation. The court will hold a hearing where both sides present evidence -- appraisals, comparable sales, condition reports. The court makes the final determination. If the values are close, the court may order an independent appraisal.
+The bank (junior lien holder) can object to your proposed valuation. The court will hold a hearing where both sides present evidence - appraisals, comparable sales, condition reports. The court makes the final determination. If the values are close, the court may order an independent appraisal.
 
 Can I strip a lien in Chapter 7?
 
@@ -1250,15 +1252,15 @@ No. The Supreme Court held in Dewsnup v. Timm, 502 U.S. 410 (1992), that Section
 
 Related Resources
 
-Lien Avoidance Under Section 522(f) -- A different tool for removing judicial liens from exempt property
+Lien Avoidance Under Section 522(f) - A different tool for removing judicial liens from exempt property
 
-Strip Your Second Mortgage -- The most common application of lien stripping
+Strip Your Second Mortgage - The most common application of lien stripping
 
-Eligibility Requirements -- Who qualifies for lien stripping
+Eligibility Requirements - Who qualifies for lien stripping
 
-Chapter 13 Cramdown -- Reducing secured debts to collateral value
+Chapter 13 Cramdown - Reducing secured debts to collateral value
 
-Relief from Stay -- What happens if a creditor tries to foreclose during your case
+Relief from Stay - What happens if a creditor tries to foreclose during your case
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -1282,10 +1284,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -1386,7 +1388,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Bankruptcy Lien Stripping -- How Lien Stripping Works in Chapter 13 [2026] -- Lienstripping
+## Bankruptcy Lien Stripping - How Lien Stripping Works in Chapter 13 [2026] - Lienstripping
 Source: https://lienstripping.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -1404,7 +1406,7 @@ Cramdown
 Eligibility
 Case Law
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Lien Stripping in Bankruptcy
 
@@ -1414,13 +1416,13 @@ Network › Lien Stripping in Bankruptcy
 
 About This Site
 
-Lien stripping is one of the most powerful tools available in bankruptcy for homeowners who owe more than their property is worth. Under 11 U.S.C. Section 506(a), a secured claim is only secured to the extent of the value of the collateral. Any amount above that value becomes an unsecured claim -- and in Chapter 13, a wholly unsecured junior lien can be "stripped off" entirely.
+Lien stripping is one of the most powerful tools available in bankruptcy for homeowners who owe more than their property is worth. Under 11 U.S.C. Section 506(a), a secured claim is only secured to the extent of the value of the collateral. Any amount above that value becomes an unsecured claim - and in Chapter 13, a wholly unsecured junior lien can be "stripped off" entirely.
 
 This site will provide a detailed guide to lien stripping and cramdown procedures, covering the valuation hearing process, the distinction between partially secured and wholly unsecured liens, circuit-specific rules, and the critical Supreme Court decisions (like Dewsnup v. Timm) that shape how Section 506 is applied.
 
 If you have a second mortgage or home equity line of credit on an underwater property, lien stripping may allow you to eliminate that debt through your Chapter 13 plan. We will explain the requirements, the process, and the common pitfalls that derail lien strip motions.
 
-Part of the Open Bankruptcy Project -- a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
+Part of the Open Bankruptcy Project - a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
 
 Frequently Asked Questions
 
@@ -1430,7 +1432,7 @@ Lien stripping removes a junior mortgage or lien from your property through Chap
 
 Can I strip a second mortgage in Chapter 13?
 
-Yes, if your home value is less than or equal to the balance owed on your first mortgage. The second mortgage must be wholly unsecured -- meaning zero equity supports it. You must complete all plan payments for the lien strip to become permanent upon discharge.
+Yes, if your home value is less than or equal to the balance owed on your first mortgage. The second mortgage must be wholly unsecured - meaning zero equity supports it. You must complete all plan payments for the lien strip to become permanent upon discharge.
 
 What are the requirements for lien stripping?
 
@@ -1447,21 +1449,21 @@ Explore Lien Topics
 
 Dive deeper into how liens are handled in bankruptcy:
 
-How Lien Stripping Works -- step-by-step process and legal basis
+How Lien Stripping Works - step-by-step process and legal basis
 
-Strip Your Second Mortgage -- the complete guide for underwater homeowners
+Strip Your Second Mortgage - the complete guide for underwater homeowners
 
-Lien Avoidance Under 522(f) -- removing judicial liens from exempt property
+Lien Avoidance Under 522(f) - removing judicial liens from exempt property
 
-Cramdown in Bankruptcy -- reducing secured debts to property value
+Cramdown in Bankruptcy - reducing secured debts to property value
 
-Lien Stripping vs. Cramdown -- which tool applies to your situation
+Lien Stripping vs. Cramdown - which tool applies to your situation
 
-Eligibility Requirements -- who qualifies for lien stripping
+Eligibility Requirements - who qualifies for lien stripping
 
-Key Case Law -- Supreme Court and circuit decisions
+Key Case Law - Supreme Court and circuit decisions
 
-After Chapter 13 Discharge -- what happens to stripped liens
+After Chapter 13 Discharge - what happens to stripped liens
 
 Related Guides
 
@@ -1481,21 +1483,21 @@ Subscribe
 
 Related Resources
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-Section 523(a) nondischargeable debts -- Which debts survive bankruptcy under Section 523(a) nondischargeable debts(a)
+Section 523(a) nondischargeable debts - Which debts survive bankruptcy under Section 523(a) nondischargeable debts(a)
 
-Relief from Stay -- When and how creditors can lift the automatic stay protection in bankruptcy
+Relief from Stay - When and how creditors can lift the automatic stay protection in bankruptcy
 
 Further Reading & Resources
 
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -1540,7 +1542,7 @@ bankruptcyexemptionsbystate.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1702,11 +1704,14 @@ bankruptcyhardship.org
 voluntarypetition.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
 
 Privacy | Terms | Open Bankruptcy Project
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1728,7 +1733,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Lien Avoidance Under Section 522(f) -- Lienstripping
+## Lien Avoidance Under Section 522(f) - Lienstripping
 Source: https://lienstripping.org/lien-avoidance.html
 
 Skip to main content
@@ -1746,7 +1751,9 @@ Case Law
 
 Lien Avoidance Under Section 522(f)
 
-How to remove judicial liens that impair your bankruptcy exemptions -- and protect the assets you are entitled to keep.
+How to remove judicial liens that impair your bankruptcy exemptions - and protect the assets you are entitled to keep.
+
+Home›Lien Avoidance
 
 What Is Lien Avoidance?
 
@@ -1754,7 +1761,7 @@ Lien avoidance under 11 U.S.C. Section 522(f) allows a bankruptcy debtor to remo
 
 The logic is straightforward: Congress created exemptions to ensure debtors can keep basic necessities after bankruptcy. If a creditor's lien could consume exempt property, the exemption would be meaningless. Section 522(f) prevents that result by allowing the debtor to avoid liens that impair exemptions.
 
-Lien avoidance is available in both Chapter 7 and Chapter 13. Unlike lien stripping, which is limited to Chapter 13, Section 522(f) avoidance works in any chapter -- making it one of the most broadly available lien modification tools in bankruptcy.
+Lien avoidance is available in both Chapter 7 and Chapter 13. Unlike lien stripping, which is limited to Chapter 13, Section 522(f) avoidance works in any chapter - making it one of the most broadly available lien modification tools in bankruptcy.
 
 Which Liens Can Be Avoided?
 
@@ -1798,7 +1805,7 @@ Tools of the trade and professional books
 
 Jewelry held primarily for personal use (up to $1,775)
 
-Cannot be avoided under 522(f): Consensual mortgage liens, tax liens, mechanic's liens, purchase money security interests (like a car loan used to buy the car), and statutory liens. These liens require other tools -- cramdown, lien stripping, or trustee avoidance powers.
+Cannot be avoided under 522(f): Consensual mortgage liens, tax liens, mechanic's liens, purchase money security interests (like a car loan used to buy the car), and statutory liens. These liens require other tools - cramdown, lien stripping, or trustee avoidance powers.
 
 The Impairment Formula
 
@@ -1808,7 +1815,7 @@ A lien impairs an exemption if:
 
 Judicial lien + All other liens + Exemption amount > Property value
 
-If the total exceeds the property value, the judicial lien impairs the exemption and can be avoided -- but only to the extent of the impairment. Here is how it works in practice:
+If the total exceeds the property value, the judicial lien impairs the exemption and can be avoided - but only to the extent of the impairment. Here is how it works in practice:
 
 Example:
 
@@ -1822,11 +1829,11 @@ Homestead exemption: $50,000
 
 Formula: $35,000 (judicial lien) + $180,000 (mortgage) + $50,000 (exemption) = $265,000
 
-$265,000 exceeds $250,000 by $15,000 -- so $15,000 of the judgment lien impairs the exemption and can be avoided.
+$265,000 exceeds $250,000 by $15,000 - so $15,000 of the judgment lien impairs the exemption and can be avoided.
 
 Result: The judgment lien is reduced from $35,000 to $20,000.
 
-In many cases -- particularly where the debtor has limited equity -- the entire judicial lien can be avoided. If the mortgage balance plus the exemption amount already equals or exceeds the property value, the judicial lien is entirely avoidable regardless of its size.
+In many cases - particularly where the debtor has limited equity - the entire judicial lien can be avoided. If the mortgage balance plus the exemption amount already equals or exceeds the property value, the judicial lien is entirely avoidable regardless of its size.
 
 How to File a Lien Avoidance Motion
 
@@ -1836,7 +1843,7 @@ Identify the lien. Determine the exact nature and amount of the judicial lien, i
 
 Determine property value. Obtain an appraisal, broker's price opinion, or other evidence of the property's current fair market value.
 
-Calculate impairment. Apply the Section 522(f)(2)(A) formula to determine whether -- and to what extent -- the lien impairs your exemption.
+Calculate impairment. Apply the Section 522(f)(2)(A) formula to determine whether - and to what extent - the lien impairs your exemption.
 
 Prepare the motion. Draft a motion to avoid the lien, citing Section 522(f) and showing the impairment calculation. Attach the valuation evidence and a copy of the judgment creating the lien.
 
@@ -1850,15 +1857,15 @@ Timing: A Section 522(f) motion can be filed at any time during the bankruptcy c
 
 Legal References
 
-11 U.S.C. Section 522(f) -- Avoidance of liens that impair exemptions
+11 U.S.C. Section 522(f) - Avoidance of liens that impair exemptions
 
-11 U.S.C. Section 522(f)(2)(A) -- Impairment formula
+11 U.S.C. Section 522(f)(2)(A) - Impairment formula
 
-Federal Rule of Bankruptcy Procedure 4003(d) -- Procedure for lien avoidance
+Federal Rule of Bankruptcy Procedure 4003(d) - Procedure for lien avoidance
 
-bankruptcyexemptions.com -- State-by-state exemption guide
+bankruptcyexemptions.com - State-by-state exemption guide
 
-1328f.com -- Bankruptcy discharge research and screening tools
+1328f.com - Bankruptcy discharge research and screening tools
 
 Related Guides
 
@@ -1875,10 +1882,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -1978,7 +1985,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Lien Stripping in Chapter 13 Bankruptcy -- Lienstripping
+## Lien Stripping in Chapter 13 Bankruptcy - Lienstripping
 Source: https://lienstripping.org/lien-stripping.html
 
 Skip to main content
@@ -1998,13 +2005,15 @@ Lien Stripping in Chapter 13 Bankruptcy
 
 How to remove a second mortgage or HELOC when your home is worth less than you owe on your first mortgage.
 
+Home›Lien Stripping
+
 What Is Lien Stripping?
 
-Lien stripping is a bankruptcy procedure that allows a Chapter 13 debtor to remove a junior mortgage lien -- typically a second mortgage or home equity line of credit (HELOC) -- from their home. The key requirement is that the home must be "underwater" on the senior mortgage, meaning the home's current market value is less than the balance owed on the first mortgage.
+Lien stripping is a bankruptcy procedure that allows a Chapter 13 debtor to remove a junior mortgage lien - typically a second mortgage or home equity line of credit (HELOC) - from their home. The key requirement is that the home must be "underwater" on the senior mortgage, meaning the home's current market value is less than the balance owed on the first mortgage.
 
-When a home is underwater, the junior lien has no equity to attach to. Under 11 U.S.C. Section 506(a), a claim is secured only to the extent of the value of the collateral. If the collateral (the home) is already fully encumbered by the senior mortgage, the junior lien is entirely unsecured -- it has zero secured value.
+When a home is underwater, the junior lien has no equity to attach to. Under 11 U.S.C. Section 506(a), a claim is secured only to the extent of the value of the collateral. If the collateral (the home) is already fully encumbered by the senior mortgage, the junior lien is entirely unsecured - it has zero secured value.
 
-Once the junior lien is determined to be wholly unsecured, the debtor can treat it as a general unsecured claim in their Chapter 13 plan. The lien holder receives whatever percentage the plan pays to unsecured creditors (often pennies on the dollar), and upon completion of the plan and receipt of discharge, the lien is stripped -- removed from the property entirely.
+Once the junior lien is determined to be wholly unsecured, the debtor can treat it as a general unsecured claim in their Chapter 13 plan. The lien holder receives whatever percentage the plan pays to unsecured creditors (often pennies on the dollar), and upon completion of the plan and receipt of discharge, the lien is stripped - removed from the property entirely.
 
 Example: Your home is worth $180,000. You owe $200,000 on your first mortgage and $40,000 on a second mortgage. Because the first mortgage balance ($200,000) exceeds the home's value ($180,000), the second mortgage is wholly unsecured. In Chapter 13, the $40,000 second mortgage can be stripped and treated as unsecured debt.
 
@@ -2026,7 +2035,7 @@ Valuation
 
 The critical question in any lien stripping case is the home's current market value. The debtor bears the burden of proving that the property's value is less than the first mortgage balance. Evidence typically includes a formal appraisal, a broker's price opinion, or comparable sales data. The lien holder can challenge the valuation and present their own evidence.
 
-Courts use the fair market value standard -- what a willing buyer would pay a willing seller in an arm's-length transaction. This is the value as of the date the bankruptcy petition was filed (with some circuits allowing the date of the lien stripping hearing).
+Courts use the fair market value standard - what a willing buyer would pay a willing seller in an arm's-length transaction. This is the value as of the date the bankruptcy petition was filed (with some circuits allowing the date of the lien stripping hearing).
 
 Dewsnup v. Timm: Why Lien Stripping Is Not Available in Chapter 7
 
@@ -2038,7 +2047,7 @@ Important: Dewsnup applies only to Chapter 7. The Supreme Court has not extended
 
 The Practical Impact
 
-The unavailability of lien stripping in Chapter 7 creates a powerful incentive for homeowners to file Chapter 13 instead. Consider a debtor with a $50,000 second mortgage on an underwater home. In Chapter 7, that lien survives the discharge -- the debtor still has a $50,000 lien on their home, even though personal liability was eliminated. In Chapter 13, the entire $50,000 lien can be stripped, potentially saving tens of thousands of dollars.
+The unavailability of lien stripping in Chapter 7 creates a powerful incentive for homeowners to file Chapter 13 instead. Consider a debtor with a $50,000 second mortgage on an underwater home. In Chapter 7, that lien survives the discharge - the debtor still has a $50,000 lien on their home, even though personal liability was eliminated. In Chapter 13, the entire $50,000 lien can be stripped, potentially saving tens of thousands of dollars.
 
 This is one of several reasons why the choice between Chapter 7 and Chapter 13 involves more than just the means test. For homeowners with junior mortgages, the ability to strip liens can make Chapter 13 dramatically more beneficial despite the longer commitment. See 1328f.com for more on Chapter 13 eligibility and discharge requirements.
 
@@ -2062,17 +2071,17 @@ Critical timing: The lien is not officially stripped until the debtor receives a
 
 Legal References
 
-11 U.S.C. Section 506(a) -- Determination of secured status
+11 U.S.C. Section 506(a) - Determination of secured status
 
-11 U.S.C. Section 506(d) -- Lien voidance
+11 U.S.C. Section 506(d) - Lien voidance
 
-11 U.S.C. Section 1322(b)(2) -- Anti-modification of home mortgages
+11 U.S.C. Section 1322(b)(2) - Anti-modification of home mortgages
 
-Dewsnup v. Timm, 502 U.S. 410 (1992) -- Lien stripping unavailable in Chapter 7
+Dewsnup v. Timm, 502 U.S. 410 (1992) - Lien stripping unavailable in Chapter 7
 
-Nobelman v. American Savings Bank, 508 U.S. 324 (1993) -- Anti-modification applies only to liens secured by residence
+Nobelman v. American Savings Bank, 508 U.S. 324 (1993) - Anti-modification applies only to liens secured by residence
 
-bankruptcyexemptions.com -- How exemptions interact with lien stripping
+bankruptcyexemptions.com - How exemptions interact with lien stripping
 
 Related Guides
 
@@ -2089,10 +2098,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -2190,7 +2199,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Strip Your Second Mortgage in Chapter 13 -- The Complete Guide -- Lienstripping
+## Strip Your Second Mortgage in Chapter 13 - The Complete Guide - Lienstripping
 Source: https://lienstripping.org/second-mortgage.html
 
 Skip to main content
@@ -2216,7 +2225,7 @@ The Most Common Use of Lien Stripping
 
 The most frequent application of lien stripping in Chapter 13 bankruptcy is removing a second mortgage or home equity line of credit (HELOC) from an underwater home. If you took out a second mortgage or HELOC during a period of rising home values, and those values have since declined, you may owe more on your first mortgage alone than the home is currently worth.
 
-When this happens, the second mortgage has no equity to attach to. Under 11 U.S.C. Section 506(a), the second mortgage is classified as wholly unsecured -- meaning it has zero secured value. In Chapter 13, a wholly unsecured junior lien can be "stripped off" the property entirely.
+When this happens, the second mortgage has no equity to attach to. Under 11 U.S.C. Section 506(a), the second mortgage is classified as wholly unsecured - meaning it has zero secured value. In Chapter 13, a wholly unsecured junior lien can be "stripped off" the property entirely.
 
 This is not a small matter. Second mortgages and HELOCs commonly range from $20,000 to $100,000 or more. Eliminating that lien can mean the difference between keeping your home and losing it, or between a manageable debt load and an impossible one.
 
@@ -2226,7 +2235,7 @@ What "Underwater" Means
 
 Example: Your home is currently worth $200,000. You owe $210,000 on your first mortgage. You also have a $50,000 second mortgage. Because the first mortgage ($210,000) exceeds the home value ($200,000), the second mortgage is wholly unsecured. In Chapter 13, the entire $50,000 second mortgage can be stripped and treated as general unsecured debt.
 
-The key word is "wholly." If the property is worth $205,000 and the first mortgage is $200,000, there is $5,000 of equity reaching the second mortgage. In that case, the second mortgage is partially secured -- and lien stripping is NOT available. It is an all-or-nothing rule.
+The key word is "wholly." If the property is worth $205,000 and the first mortgage is $200,000, there is $5,000 of equity reaching the second mortgage. In that case, the second mortgage is partially secured - and lien stripping is NOT available. It is an all-or-nothing rule.
 
 How to Determine If You Are Underwater
 
@@ -2240,7 +2249,7 @@ The HELOC Trap
 
 Home equity lines of credit (HELOCs) are particularly common targets for lien stripping. During housing booms, lenders aggressively marketed HELOCs to homeowners, encouraging them to "tap into their home equity" for renovations, debt consolidation, or everyday expenses.
 
-When home values fell -- whether in the 2008 housing crisis or in local market downturns since -- many of those HELOCs became fully unsecured. The homeowner was left with a HELOC payment on a house that was already underwater on the first mortgage.
+When home values fell - whether in the 2008 housing crisis or in local market downturns since - many of those HELOCs became fully unsecured. The homeowner was left with a HELOC payment on a house that was already underwater on the first mortgage.
 
 For these homeowners, lien stripping in Chapter 13 provides a direct path to eliminating the HELOC. The HELOC is treated exactly like a second mortgage for lien stripping purposes: if the first mortgage balance exceeds the property value, the HELOC is wholly unsecured and can be stripped.
 
@@ -2252,7 +2261,7 @@ To strip a second mortgage or HELOC in Chapter 13, all of the following must be 
 
 You must file Chapter 13. Lien stripping is not available in Chapter 7. See Dewsnup v. Timm, 502 U.S. 410 (1992), and Bank of America v. Caulkett, 575 U.S. 790 (2015). Some circuits allow lien stripping in Chapter 11 Sub V.
 
-The property must be your principal residence. The anti-modification clause of Section 1322(b)(2) only protects liens that are actually secured by the residence. If the junior lien is wholly unsecured, the anti-modification clause does not apply -- but the property must still be your home for the standard lien stripping analysis.
+The property must be your principal residence. The anti-modification clause of Section 1322(b)(2) only protects liens that are actually secured by the residence. If the junior lien is wholly unsecured, the anti-modification clause does not apply - but the property must still be your home for the standard lien stripping analysis.
 
 The junior lien must be WHOLLY unsecured. The first mortgage balance must exceed the property's current market value as of the petition date. If even $1 of equity reaches the junior lien, it cannot be stripped.
 
@@ -2260,7 +2269,7 @@ You must complete the plan. The lien is not stripped until you receive your Chap
 
 What About Partial Stripping?
 
-A question that comes up frequently: if the second mortgage is partially secured -- say, $5,000 of equity reaches it out of a $50,000 balance -- can you at least strip the unsecured portion?
+A question that comes up frequently: if the second mortgage is partially secured - say, $5,000 of equity reaches it out of a $50,000 balance - can you at least strip the unsecured portion?
 
 The answer is generally no for liens on your primary residence. This is because of Section 1322(b)(2), the anti-modification clause. Once any portion of the junior lien is secured by the debtor's principal residence, the entire claim is protected from modification. You cannot bifurcate (split) a partially secured home mortgage the way you can cramdown a car loan.
 
@@ -2274,19 +2283,19 @@ Once the court determines the second mortgage is wholly unsecured, the debt is t
 
 The second mortgage holder receives whatever percentage the plan pays to unsecured creditors. This might be 100%, 50%, 10%, or even 0%, depending on the debtor's disposable income and plan structure.
 
-The second mortgage holder no longer has a lien on the property. The claim is unsecured -- period.
+The second mortgage holder no longer has a lien on the property. The claim is unsecured - period.
 
 Upon discharge, any unpaid portion of the unsecured claim is discharged. The lien is voided permanently.
 
 For the debtor, this means a second mortgage of $50,000 might cost them only $5,000 (in a 10% plan) over the life of the Chapter 13 case, instead of the full $50,000 plus interest. The savings can be enormous.
 
-The Rebound Trap -- Not Really a Trap
+The Rebound Trap - Not Really a Trap
 
 Some debtors worry: what if my home value increases during the 3-to-5-year plan? Does the lien come back?
 
 No. The valuation date is the petition date (the date you filed for bankruptcy). Once the court determines the junior lien is wholly unsecured based on the petition-date value, that determination stands for the remainder of the case. Property value increases during the plan do not change the analysis.
 
-This is actually a significant benefit. If you strip a second mortgage when your home is underwater, and then the market recovers during your plan, you get the benefit of the recovery -- your home gains equity, and the stripped lien does not reattach. You come out of Chapter 13 with a more valuable home and one fewer lien on it.
+This is actually a significant benefit. If you strip a second mortgage when your home is underwater, and then the market recovers during your plan, you get the benefit of the recovery - your home gains equity, and the stripped lien does not reattach. You come out of Chapter 13 with a more valuable home and one fewer lien on it.
 
 Practical Considerations
 
@@ -2310,7 +2319,7 @@ Frequently Asked Questions
 
 Can I strip my second mortgage in bankruptcy?
 
-Yes, if you file Chapter 13 and your home is underwater -- meaning the first mortgage balance exceeds the current market value. The second mortgage must be wholly unsecured (no equity reaches it). You must complete the plan and receive a discharge for the strip to become permanent.
+Yes, if you file Chapter 13 and your home is underwater - meaning the first mortgage balance exceeds the current market value. The second mortgage must be wholly unsecured (no equity reaches it). You must complete the plan and receive a discharge for the strip to become permanent.
 
 What does "underwater" mean for lien stripping?
 
@@ -2326,13 +2335,13 @@ The valuation date is the petition date. If property values rise during your 3-t
 
 Related Resources
 
-How Lien Stripping Works -- Step by Step -- The full process from start to finish
+How Lien Stripping Works - Step by Step - The full process from start to finish
 
-After Chapter 13 Discharge -- What happens to the stripped lien after your case ends
+After Chapter 13 Discharge - What happens to the stripped lien after your case ends
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work
+Chapter 13 Plans - How Chapter 13 repayment plans work
 
-Relief from Stay -- Protection from foreclosure during your case
+Relief from Stay - Protection from foreclosure during your case
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -2356,10 +2365,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -2462,7 +2471,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Lien Stripping vs. Cramdown -- What's the Difference? -- Lienstripping
+## Lien Stripping vs. Cramdown - What's the Difference? - Lienstripping
 Source: https://lienstripping.org/vs-cramdown.html
 
 Skip to main content
@@ -2480,7 +2489,7 @@ Case Law
 
 Lien Stripping vs. Cramdown
 
-Both reduce what you pay on secured debts -- but they work differently and apply to different situations.
+Both reduce what you pay on secured debts - but they work differently and apply to different situations.
 
 Home › Lien Stripping vs. Cramdown
 
@@ -2533,8 +2542,8 @@ Not available (Dewsnup)
 Not applicable (no plan)
 
 All or nothing?
-Yes -- strip the whole lien or nothing
-No -- reduces proportionally
+Yes - strip the whole lien or nothing
+No - reduces proportionally
 
 Lien Stripping: All or Nothing
 
@@ -2548,7 +2557,7 @@ Cramdown: Proportional Reduction
 
 Cramdown works differently. Under Section 506(a), a secured claim is bifurcated (split) into two parts: a secured claim equal to the collateral's value, and an unsecured claim for the excess. You must pay the secured portion in full (with interest), but the unsecured portion is treated like any other unsecured debt.
 
-Cramdown applies to partially secured debts. Unlike lien stripping, which requires the lien to be wholly unsecured, cramdown works whenever the debt exceeds the collateral value -- even by a small amount.
+Cramdown applies to partially secured debts. Unlike lien stripping, which requires the lien to be wholly unsecured, cramdown works whenever the debt exceeds the collateral value - even by a small amount.
 
 Cramdown example: You owe $18,000 on a car loan. The car is worth $10,000. Through cramdown, the $18,000 claim is split: $10,000 secured (you pay this with interest) and $8,000 unsecured (treated like credit card debt). You save $8,000 plus the interest rate is likely reduced under the Till formula.
 
@@ -2560,7 +2569,7 @@ You CANNOT cramdown your primary home mortgage. Even if you owe $300,000 on a ho
 
 You CAN strip a wholly unsecured junior lien on your primary residence. If the first mortgage exceeds the home value, the second mortgage is not "secured by" the residence, so the anti-modification clause does not protect it.
 
-Investment property has different rules. The anti-modification clause does not apply to investment property. You can cramdown a partially secured mortgage on a rental property to the property's value -- something you cannot do with your home.
+Investment property has different rules. The anti-modification clause does not apply to investment property. You can cramdown a partially secured mortgage on a rental property to the property's value - something you cannot do with your home.
 
 The 910-day hanging paragraph limits cramdown on recent car purchases (within 910 days of filing). There is no equivalent time restriction for lien stripping. The only question for lien stripping is whether the junior lien is wholly unsecured on the petition date.
 
@@ -2588,7 +2597,7 @@ You want to reduce a high interest rate to the Till formula rate
 
 Use Both in the Same Case:
 
-There is no rule that says you have to choose one or the other. Many Chapter 13 debtors use both tools in the same case. For example, you might strip a $40,000 second mortgage on your underwater home AND cramdown a $15,000 car loan to $8,000 -- all in the same Chapter 13 plan.
+There is no rule that says you have to choose one or the other. Many Chapter 13 debtors use both tools in the same case. For example, you might strip a $40,000 second mortgage on your underwater home AND cramdown a $15,000 car loan to $8,000 - all in the same Chapter 13 plan.
 
 Combined savings example: Strip $40,000 second mortgage (savings: ~$40,000) + cramdown car from $15,000 to $8,000 (savings: ~$7,000) + reduced interest rate on car (savings: ~$2,000). Total Chapter 13 advantage over Chapter 7: roughly $49,000. This is why the choice between chapters involves more than just the means test.
 
@@ -2596,7 +2605,7 @@ Frequently Asked Questions
 
 What is the difference between lien stripping and cramdown?
 
-Lien stripping removes a wholly unsecured junior lien entirely -- the lien is voided upon discharge. Cramdown reduces a secured claim to the collateral's current value, splitting it into secured and unsecured portions. Lien stripping is all-or-nothing; cramdown is proportional.
+Lien stripping removes a wholly unsecured junior lien entirely - the lien is voided upon discharge. Cramdown reduces a secured claim to the collateral's current value, splitting it into secured and unsecured portions. Lien stripping is all-or-nothing; cramdown is proportional.
 
 Can I cramdown my home mortgage?
 
@@ -2612,15 +2621,15 @@ It depends on your debts. Lien stripping can eliminate an entire $50,000+ second
 
 Related Resources
 
-Cramdown in Detail -- Full guide to cramdown under Section 506(a)
+Cramdown in Detail - Full guide to cramdown under Section 506(a)
 
-How Lien Stripping Works -- Step-by-step lien stripping process
+How Lien Stripping Works - Step-by-step lien stripping process
 
-Eligibility Requirements -- Who qualifies for lien stripping
+Eligibility Requirements - Who qualifies for lien stripping
 
-Chapter 13 Cramdown -- Car cramdown and the 910-day rule
+Chapter 13 Cramdown - Car cramdown and the 910-day rule
 
-Relief from Stay -- Protection from creditor collection during your case
+Relief from Stay - Protection from creditor collection during your case
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -2644,10 +2653,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -2745,3 +2754,75 @@ This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptc
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Privacy Policy - lienstripping.org
+Source: https://lienstripping.org/privacy.html
+
+lienstripping.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
