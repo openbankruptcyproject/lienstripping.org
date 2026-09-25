@@ -1,6 +1,6 @@
 # lienstripping.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on lienstripping.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -8,7 +8,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## What Happens to a Stripped Lien After Chapter 13 Discharge? - Lienstripping
+## Stripped Lien After Chapter 13 Discharge [2026]: 11 USC 1328(a) Permanent Lien Avoidance and Title Cleanup
 Source: https://lienstripping.org/after-chapter-13.html
 
 Skip to main content
@@ -29,6 +29,8 @@ What Happens to a Stripped Lien After Chapter 13 Discharge?
 The lien is voided upon discharge - but you still need to clear the records and protect your rights.
 
 Home › After Chapter 13 Discharge
+
+Yes, once you complete your Chapter 13 plan and receive a discharge. The discharge order, combined with the court's earlier order determining the lien was wholly unsecured, permanently voids the lien. However, if the case is dismissed before discharge, the lien survives in full force.
 
 The Lien Is Voided Upon Discharge
 
@@ -136,6 +138,16 @@ Does lien stripping survive if my case is dismissed?
 
 No. If the case is dismissed before discharge, the lien strip is completely undone. The junior lien reverts to its full amount and remains on the property. Completing the plan and receiving a discharge is essential for the lien strip to become permanent.
 
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Dewsnup v. Timm, 502 U.S. 410 (1992) - Chapter 7 debtors cannot strip down a partially secured lien to the value of the collateral; "lien stripping" unavailable in Chapter 7.
+
+Nobelman v. American Savings Bank, 508 U.S. 324 (1993) - the Section 1322(b)(2) anti-modification clause protects a creditor whose claim is secured solely by the debtor's principal residence; primary-residence first mortgages cannot be modified in Chapter 13.
+
+Bank of America, N.A. v. Caulkett, 575 U.S. 790 (2015) - extends Dewsnup; even wholly-underwater junior liens cannot be voided in Chapter 7. Resolved circuit split against debtors.
+
 Related Resources
 
 How Lien Stripping Works - The step-by-step process
@@ -202,7 +214,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Exemptions Guide
 
@@ -226,29 +238,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-chapter13plan.org
-lienstripping.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
-Last updated: March 2026.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -268,15 +284,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Lien Stripping Case Law - Key Decisions by Circuit - Lienstripping
+## Lien Stripping Case Law [2026]: Caulkett, Nobelman, and Circuit Splits Under 11 USC 506(a)
 Source: https://lienstripping.org/case-law.html
 
 Skip to main content
@@ -297,6 +313,8 @@ Lien Stripping Case Law - Key Decisions by Circuit
 The Supreme Court and circuit court decisions that define how lien stripping works in American bankruptcy law.
 
 Home › Case Law
+
+Yes. Lien stripping in Chapter 13 is well-established law in every federal circuit. The Supreme Court confirmed its legality in Nobelman v. American Savings Bank (1993), holding that a wholly unsecured junior lien falls outside the anti-modification clause of Section 1322(b)(2) and can be stripped.
 
 The Three Foundational Supreme Court Decisions
 
@@ -500,7 +518,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Exemptions Guide
 
@@ -522,29 +540,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-chapter13plan.org
-lienstripping.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
-Last updated: March 2026.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -564,15 +586,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Cramdown: Reducing Secured Debts to Property Value - Lienstripping
+## Cramdown vs Stripoff [2026]: 11 USC 1325(a)(5) Reducing Secured Debts to Property Value in Chapter 13
 Source: https://lienstripping.org/cramdown.html
 
 Skip to main content
@@ -593,6 +615,8 @@ Cramdown: Reducing Secured Debts to Property Value
 How Section 506(a) bifurcation lets you pay only what your property is actually worth - and treat the rest as unsecured debt.
 
 Home›Cramdown
+
+Cramdown is a bankruptcy procedure that reduces a secured claim to the current market value of the collateral.
 
 What Is Cramdown?
 
@@ -739,7 +763,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Exemptions Guide
 
@@ -763,30 +787,41 @@ Student Loan Forgiveness Programs -- studentloanforgive.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
+The cases below define the doctrine on this site:
+
+Dewsnup v. Timm, 502 U.S. 410 (1992) - Chapter 7 debtors cannot strip down a partially secured lien to the value of the collateral; "lien stripping" unavailable in Chapter 7.
+
+Nobelman v. American Savings Bank, 508 U.S. 324 (1993) - the Section 1322(b)(2) anti-modification clause protects a creditor whose claim is secured solely by the debtor's principal residence; primary-residence first mortgages cannot be modified in Chapter 13.
+
+Bank of America, N.A. v. Caulkett, 575 U.S. 790 (2015) - extends Dewsnup; even wholly-underwater junior liens cannot be voided in Chapter 7. Resolved circuit split against debtors.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
 Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-1328f.com
-1328f.org
-lienstripping.org
-bankruptcyexemptions.com
-automaticstay.org
-524injunction.com
-bankruptcydischarge.com
-reaffirmationagreement.com
-creditcounselingbankruptcy.com
-bankruptcycost.com
-filebankruptcyagain.com
-727a8.com
-bankruptcydismissed.com
-341meeting.com
-prosequestion.com
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Privacy |
+Terms
 
-Privacy | Terms | Open Bankruptcy Project
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -810,7 +845,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Lien Stripping Eligibility - Requirements and Limitations - Lienstripping
+## Lien Stripping Eligibility [2026]: 11 USC 506(a) Underwater Requirement and Chapter 13 Completion Rule
 Source: https://lienstripping.org/eligibility.html
 
 Skip to main content
@@ -831,6 +866,8 @@ Lien Stripping Eligibility - Requirements and Limitations
 Who qualifies for lien stripping, what evidence you need, and the situations where lien stripping is not available.
 
 Home › Eligibility
+
+No. The Supreme Court held in Dewsnup v. Timm (1992) that Section 506(d) cannot be used to strip liens in Chapter 7. This was confirmed for wholly unsecured liens in Bank of America v. Caulkett (2015). Lien stripping requires Chapter 13 (or Chapter 11 Sub V in some circuits).
 
 Core Requirements
 
@@ -1022,7 +1059,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Exemptions Guide
 
@@ -1044,29 +1081,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-chapter13plan.org
-lienstripping.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
-Last updated: March 2026.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1086,15 +1127,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## How Lien Stripping Works in Chapter 13 Bankruptcy - Step by Step - Lienstripping
+## How Lien Stripping Works [2026]: 11 USC 506(a) Valuation Motion and Chapter 13 Plan Treatment
 Source: https://lienstripping.org/how-it-works.html
 
 Skip to main content
@@ -1115,6 +1156,8 @@ How Lien Stripping Works in Chapter 13 - Step by Step
 The complete process for removing a wholly unsecured junior lien from your property through Chapter 13 bankruptcy.
 
 Home › How Lien Stripping Works
+
+Lien stripping removes a wholly unsecured junior lien from your property through Chapter 13 bankruptcy. Under Section 506(a), if the balance on your first mortgage exceeds the property's market value, any junior lien (second mortgage, HELOC) is considered wholly unsecured. You file a motion to value the lien, treat it as unsecured in your plan, complete the plan, and upon discharge the lien is voided.
 
 What Lien Stripping Does
 
@@ -1318,7 +1361,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Exemptions Guide
 
@@ -1340,29 +1383,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-chapter13plan.org
-lienstripping.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
-Last updated: March 2026.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1382,9 +1429,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -1393,7 +1440,7 @@ This site provides general information, not legal advice. Consult a qualified at
 ## Bankruptcy Lien Stripping - How Lien Stripping Works in Chapter 13 [2026] - Lienstripping
 Source: https://lienstripping.org/
 
-🌐 Esta pagina esta disponible en Espanol
+🌐 Esta página está disponible en Español
 
 Skip to main content
 
@@ -1408,13 +1455,15 @@ Cramdown
 Eligibility
 Case Law
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 Lien Stripping in Bankruptcy
 
 Section 506 cramdown and junior lien strip procedures
 
 Network › Lien Stripping in Bankruptcy
+
+Lien stripping removes a junior mortgage or lien from your property through Chapter 13 bankruptcy. Under Section 506, if your home is worth less than what you owe on the first mortgage, the second mortgage is treated as unsecured debt and can be eliminated through your repayment plan.
 
 About This Site
 
@@ -1528,7 +1577,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Exemptions Guide
 
@@ -1664,56 +1713,43 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Part of the Open Bankruptcy Project
+The cases below define the doctrine on this site:
+
+Dewsnup v. Timm, 502 U.S. 410 (1992) - Chapter 7 debtors cannot strip down a partially secured lien to the value of the collateral; "lien stripping" unavailable in Chapter 7.
+
+Nobelman v. American Savings Bank, 508 U.S. 324 (1993) - the Section 1322(b)(2) anti-modification clause protects a creditor whose claim is secured solely by the debtor's principal residence; primary-residence first mortgages cannot be modified in Chapter 13.
+
+Bank of America, N.A. v. Caulkett, 575 U.S. 790 (2015) - extends Dewsnup; even wholly-underwater junior liens cannot be voided in Chapter 7. Resolved circuit split against debtors.
+
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-462+ Court Documents Freed from PACER
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+Privacy |
+Terms
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-dischargeinjunction.com
-523a.org
-109g.org
-727a8.org
-727a8.com
-prosedebtors.org
-whatischapter7.com
-whatischapter7.org
-chapter13plan.org
-lienstripping.org
-nondischargeable.org
-bankruptcyfreshstart.org
-reaffirmationagreement.org
-dischargebar.org
-section1328.org
-bankruptcytaxes.org
-dismissedbankruptcy.org
-serialfiler.org
-codebtorstay.org
-bankruptcyhardship.org
-voluntarypetition.org
-♥ Sponsor
-GitHub
-Rule 9037 PII Scanner
+♥ Donate
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1727,15 +1763,44 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Googlezvjzyjfznkwziasscft56Wwvzodyv174Hor3Hvo 08Y
+Index
+
 ---
 
-## Lien Avoidance Under Section 522(f) - Lienstripping
+## Lien Avoidance Under Section 522(f) [2026]: Avoiding Judicial Liens and Nonpossessory Nonpurchase-Money Security Interests
 Source: https://lienstripping.org/lien-avoidance.html
 
 Skip to main content
@@ -1756,6 +1821,8 @@ Lien Avoidance Under Section 522(f)
 How to remove judicial liens that impair your bankruptcy exemptions - and protect the assets you are entitled to keep.
 
 Home›Lien Avoidance
+
+Lien avoidance under 11 U.S.C. Section 522(f) allows a bankruptcy debtor to remove certain liens from exempt property. The most common application is removing a judgment lien from a home so the debtor can claim the full homestead exemption .
 
 What Is Lien Avoidance?
 
@@ -1916,7 +1983,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Exemptions Guide
 
@@ -1940,30 +2007,41 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Free Means Test Calculator -- meanstest.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
+The cases below define the doctrine on this site:
+
+Dewsnup v. Timm, 502 U.S. 410 (1992) - Chapter 7 debtors cannot strip down a partially secured lien to the value of the collateral; "lien stripping" unavailable in Chapter 7.
+
+Nobelman v. American Savings Bank, 508 U.S. 324 (1993) - the Section 1322(b)(2) anti-modification clause protects a creditor whose claim is secured solely by the debtor's principal residence; primary-residence first mortgages cannot be modified in Chapter 13.
+
+Bank of America, N.A. v. Caulkett, 575 U.S. 790 (2015) - extends Dewsnup; even wholly-underwater junior liens cannot be voided in Chapter 7. Resolved circuit split against debtors.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
 Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-1328f.com
-1328f.org
-lienstripping.org
-bankruptcyexemptions.com
-automaticstay.org
-524injunction.com
-bankruptcydischarge.com
-reaffirmationagreement.com
-creditcounselingbankruptcy.com
-bankruptcycost.com
-filebankruptcyagain.com
-727a8.com
-bankruptcydismissed.com
-341meeting.com
-prosequestion.com
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Privacy |
+Terms
 
-Privacy | Terms | Open Bankruptcy Project
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1987,7 +2065,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Lien Stripping in Chapter 13 Bankruptcy - Lienstripping
+## Lien Stripping in Chapter 13 [2026]: 11 USC 506(a) Wholly Underwater Junior Mortgage Removal
 Source: https://lienstripping.org/lien-stripping.html
 
 Skip to main content
@@ -2008,6 +2086,8 @@ Lien Stripping in Chapter 13 Bankruptcy
 How to remove a second mortgage or HELOC when your home is worth less than you owe on your first mortgage.
 
 Home›Lien Stripping
+
+Chapter 13 is a reorganization bankruptcy where you repay some or all of your debts over a 3-5 year plan. It lets you keep your property, catch up on mortgage or car payments, and discharge remaining unsecured debt at the end of the plan.
 
 What Is Lien Stripping?
 
@@ -2132,7 +2212,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Exemptions Guide
 
@@ -2154,30 +2234,41 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
+The cases below define the doctrine on this site:
+
+Dewsnup v. Timm, 502 U.S. 410 (1992) - Chapter 7 debtors cannot strip down a partially secured lien to the value of the collateral; "lien stripping" unavailable in Chapter 7.
+
+Nobelman v. American Savings Bank, 508 U.S. 324 (1993) - the Section 1322(b)(2) anti-modification clause protects a creditor whose claim is secured solely by the debtor's principal residence; primary-residence first mortgages cannot be modified in Chapter 13.
+
+Bank of America, N.A. v. Caulkett, 575 U.S. 790 (2015) - extends Dewsnup; even wholly-underwater junior liens cannot be voided in Chapter 7. Resolved circuit split against debtors.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
 Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-1328f.com
-1328f.org
-lienstripping.org
-bankruptcyexemptions.com
-automaticstay.org
-524injunction.com
-bankruptcydischarge.com
-reaffirmationagreement.com
-creditcounselingbankruptcy.com
-bankruptcycost.com
-filebankruptcyagain.com
-727a8.com
-bankruptcydismissed.com
-341meeting.com
-prosequestion.com
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Privacy |
+Terms
 
-Privacy | Terms | Open Bankruptcy Project
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -2201,7 +2292,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Strip Your Second Mortgage in Chapter 13 - The Complete Guide - Lienstripping
+## Strip Your Second Mortgage in Chapter 13 [2026]: 11 USC 506(a) Wholly Underwater Test and Procedure
 Source: https://lienstripping.org/second-mortgage.html
 
 Skip to main content
@@ -2222,6 +2313,8 @@ Strip Your Second Mortgage in Chapter 13
 The complete guide to eliminating a second mortgage or HELOC when your home is underwater.
 
 Home › Strip Your Second Mortgage
+
+Yes, if your home is underwater - meaning the balance on your first mortgage exceeds the current market value of the home. In Chapter 13, a wholly unsecured second mortgage can be stripped off and treated as unsecured debt. You must complete the Chapter 13 plan to make the strip permanent.
 
 The Most Common Use of Lien Stripping
 
@@ -2335,6 +2428,16 @@ What if my home value increases during the plan?
 
 The valuation date is the petition date. If property values rise during your 3-to-5-year plan, the lien strip is unaffected. The determination that the junior lien was wholly unsecured on the petition date is final. You keep the benefit of any property value increase.
 
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Dewsnup v. Timm, 502 U.S. 410 (1992) - Chapter 7 debtors cannot strip down a partially secured lien to the value of the collateral; "lien stripping" unavailable in Chapter 7.
+
+Nobelman v. American Savings Bank, 508 U.S. 324 (1993) - the Section 1322(b)(2) anti-modification clause protects a creditor whose claim is secured solely by the debtor's principal residence; primary-residence first mortgages cannot be modified in Chapter 13.
+
+Bank of America, N.A. v. Caulkett, 575 U.S. 790 (2015) - extends Dewsnup; even wholly-underwater junior liens cannot be voided in Chapter 7. Resolved circuit split against debtors.
+
 Related Resources
 
 How Lien Stripping Works - Step by Step - The full process from start to finish
@@ -2399,7 +2502,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Exemptions Guide
 
@@ -2423,29 +2526,33 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-chapter13plan.org
-lienstripping.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
-Last updated: March 2026.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -2465,15 +2572,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Lien Stripping vs. Cramdown - What's the Difference? - Lienstripping
+## Lien Stripping vs Cramdown [2026]: 11 USC 506(d) Voiding vs 1325(a)(5)(B) Reducing the Secured Claim
 Source: https://lienstripping.org/vs-cramdown.html
 
 Skip to main content
@@ -2494,6 +2601,8 @@ Lien Stripping vs. Cramdown
 Both reduce what you pay on secured debts - but they work differently and apply to different situations.
 
 Home › Lien Stripping vs. Cramdown
+
+Lien stripping removes a wholly unsecured junior lien entirely - the lien is voided upon discharge. It is all or nothing. Cramdown reduces a secured claim to the current value of the collateral, splitting the claim into a secured portion (which must be paid) and an unsecured portion (which may receive pennies on the dollar). Cramdown works on partially secured debts; lien stripping requires the lien to be completely unsecured.
 
 Two Tools, Different Jobs
 
@@ -2621,6 +2730,16 @@ Which saves me more money?
 
 It depends on your debts. Lien stripping can eliminate an entire $50,000+ second mortgage. Cramdown can save thousands on a depreciated car loan. If you qualify for both, using them together in the same case can produce dramatic savings. Consult a bankruptcy attorney to analyze your specific situation.
 
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Dewsnup v. Timm, 502 U.S. 410 (1992) - Chapter 7 debtors cannot strip down a partially secured lien to the value of the collateral; "lien stripping" unavailable in Chapter 7.
+
+Nobelman v. American Savings Bank, 508 U.S. 324 (1993) - the Section 1322(b)(2) anti-modification clause protects a creditor whose claim is secured solely by the debtor's principal residence; primary-residence first mortgages cannot be modified in Chapter 13.
+
+Bank of America, N.A. v. Caulkett, 575 U.S. 790 (2015) - extends Dewsnup; even wholly-underwater junior liens cannot be voided in Chapter 7. Resolved circuit split against debtors.
+
 Related Resources
 
 Cramdown in Detail - Full guide to cramdown under Section 506(a)
@@ -2687,7 +2806,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Exemptions Guide
 
@@ -2709,29 +2828,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-chapter13plan.org
-lienstripping.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
-Last updated: March 2026.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -2751,9 +2874,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -2815,7 +2938,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -2825,6 +2948,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About lienstripping.org
+Source: https://lienstripping.org/about.html
+
+lienstripping.org
+
+Home
+About
+Privacy
+
+About lienstripping.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+lienstripping.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.

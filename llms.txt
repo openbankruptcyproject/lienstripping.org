@@ -1,5 +1,5 @@
 # Bankruptcy Lien Stripping - How Lien Stripping Works in Chapter 13 [2026] - Lienstripping
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Lien stripping removes underwater junior liens in Chapter 13 bankruptcy. Learn eligibility, valuation, and the stripping process. 2026 guide.
 
@@ -7,17 +7,18 @@
 lienstripping.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- What Happens to a Stripped Lien After Chapter 13 Discharge? - Lienstripping: https://lienstripping.org/after-chapter-13.html
-- Lien Stripping Case Law - Key Decisions by Circuit - Lienstripping: https://lienstripping.org/case-law.html
-- Cramdown: Reducing Secured Debts to Property Value - Lienstripping: https://lienstripping.org/cramdown.html
-- Lien Stripping Eligibility - Requirements and Limitations - Lienstripping: https://lienstripping.org/eligibility.html
-- How Lien Stripping Works in Chapter 13 Bankruptcy - Step by Step - Lienstripping: https://lienstripping.org/how-it-works.html
+- Stripped Lien After Chapter 13 Discharge [2026]: 11 USC 1328(a) Permanent Lien Avoidance and Title Cleanup: https://lienstripping.org/after-chapter-13.html
+- Lien Stripping Case Law [2026]: Caulkett, Nobelman, and Circuit Splits Under 11 USC 506(a): https://lienstripping.org/case-law.html
+- Cramdown vs Stripoff [2026]: 11 USC 1325(a)(5) Reducing Secured Debts to Property Value in Chapter 13: https://lienstripping.org/cramdown.html
+- Lien Stripping Eligibility [2026]: 11 USC 506(a) Underwater Requirement and Chapter 13 Completion Rule: https://lienstripping.org/eligibility.html
+- How Lien Stripping Works [2026]: 11 USC 506(a) Valuation Motion and Chapter 13 Plan Treatment: https://lienstripping.org/how-it-works.html
 - Bankruptcy Lien Stripping - How Lien Stripping Works in Chapter 13 [2026] - Lienstripping: https://lienstripping.org/
-- Lien Avoidance Under Section 522(f) - Lienstripping: https://lienstripping.org/lien-avoidance.html
-- Lien Stripping in Chapter 13 Bankruptcy - Lienstripping: https://lienstripping.org/lien-stripping.html
-- Strip Your Second Mortgage in Chapter 13 - The Complete Guide - Lienstripping: https://lienstripping.org/second-mortgage.html
-- Lien Stripping vs. Cramdown - What's the Difference? - Lienstripping: https://lienstripping.org/vs-cramdown.html
+- Lien Avoidance Under Section 522(f) [2026]: Avoiding Judicial Liens and Nonpossessory Nonpurchase-Money Security Interests: https://lienstripping.org/lien-avoidance.html
+- Lien Stripping in Chapter 13 [2026]: 11 USC 506(a) Wholly Underwater Junior Mortgage Removal: https://lienstripping.org/lien-stripping.html
+- Strip Your Second Mortgage in Chapter 13 [2026]: 11 USC 506(a) Wholly Underwater Test and Procedure: https://lienstripping.org/second-mortgage.html
+- Lien Stripping vs Cramdown [2026]: 11 USC 506(d) Voiding vs 1325(a)(5)(B) Reducing the Secured Claim: https://lienstripping.org/vs-cramdown.html
 - Privacy Policy: https://lienstripping.org/privacy.html
+- About lienstripping.org: https://lienstripping.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
